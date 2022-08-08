@@ -5,8 +5,8 @@
 * It may be helpful to start by ‘collapsing’ all the form sections down so that you see just the form section headings. This format allows you to see a simple overview of all the form sections, and you can expand one form section at a time as you work on each section in order.
 * The CEDAR form has 9 sections: 
     * [Minimal Info](minimal-info.md) 
-    * Metadata Location 
-    * Data Availability
+    * [(Meta)data Location](meta-data-location.md) 
+    * [Data Availability](data-availability.md)
     * Study Translational Focus 
     * Study Type 
     *Human Treatment Applicability 
