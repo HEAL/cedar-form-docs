@@ -9,14 +9,14 @@
     * [Data Availability](data-availability.md)
     * Study Translational Focus 
     * Study Type 
-    *Human Treatment Applicability 
-    *Human Condition Applicability 
+    * Human Treatment Applicability 
+    * Human Condition Applicability 
     * Human Subject Applicability
     * Data 
 * Start by collapsing all of these sections down so that all you see is the (green text) heading for each of these form sections.
 * As you move through this form, save the metadata values you enter by scrolling to the bottom of your form and clicking the “Save” button at the bottom right. 
 * **Save often while you are completing the form to ensure that you do not lose any entered metadata values!** A good rule of thumb may be to save each time you complete a form section (or more often!).
-* Please complete all sections of the form!
+* **Please complete all sections of the form!** (*If your study does not focus on investigation of a treatment for a human pain or opioid use condition, the fields in the Human Treatment Applicability form section do not apply - please skip this section*)
 * Please reach out to us at heal-support@datacommons.io for questions or support - we are happy to help!
 
 !!! note
@@ -24,6 +24,9 @@
    
 !!! note
 **Help text for each field is available once you click into the field. Once you click into a field, a “?” icon is available in the upper right of the field area. Mouse over the “?” icon to expose help text for that field.**
+
+!!! note
+**The Platform will provide access to a re-visitable portal on the Platform that will allow investigators to update metadata fields that will/may need to be updated as a HEAL study moves through its life-cycle. <mark>If you need to update metadata fields from the CEDAR form before this portal is available, please reach out to the Platform Help Desk at heal-support@datacommons.io for assistance.</mark>** 
 
 
  
