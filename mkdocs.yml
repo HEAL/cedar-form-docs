@@ -11,6 +11,7 @@ nav:
       - CEDAR Field Help Text: cedar-field-help-text.md
       - Identify and Complete CEDAR Array Type Field: complete-cedar-array-field.md 
       - Save CEDAR Form: save-cedar-form.md
+      - Update CEDAR Form Metadata: update-cedar-form-metadata.md
 theme: readthedocs
 markdown_extensions:
     - admonition
