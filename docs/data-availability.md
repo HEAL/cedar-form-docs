@@ -3,18 +3,16 @@
 * Many of the fields in the Data Availability section will/may need to be updated as a HEAL study moves through its life-cycle (e.g. a field called "data collection status" will start at "not started" and move through "started" to end up at "finished")
 * The Platform will provide access to a re-visitable portal on the Platform that will allow investigators to update metadata fields that will/may need to be updated as a HEAL study moves through its life-cycle. <mark>If you need to update metadata fields from the CEDAR form before this portal is available, please reach out to the Platform Help Desk at heal-support@datacommons.io for assistance.</mark> 
 * The Data Availability form section has ten fields (<mark>click below to expand guidance for each field</mark>):
- 
-    <li> <details><summary>**Will the study collect or produce data? Yes/No**</summary><blockquote>
-    <li> <details><summary>**How to answer**</summary><blockquote>
+    
+    <details><summary>**Will the study collect or produce data? Yes/No**</summary><blockquote>
+    <details><summary>**How to answer**</summary><blockquote>
         Not all HEAL studies will collect or produce data. For example, some studies will do the ‘pre-work’ of developing methods and protocols for later use by future studies that will implement and collect data using that developed protocol. If your study will NOT collect or produce **data**, but will produce shareable products other than data (e.g. protocols, slide decks, etc.) please answer “No” to this question and “Yes” to a later question in this section that asks if your study will produce shareable products other than data. 
     </blockquote></details>
-    </li>
-    <li> <details><summary>**How this field will be used**</summary><blockquote>
+    <details><summary>**How this field will be used**</summary><blockquote>
         This field will allow Platform users that are specifically looking for study data that may be useful for their purposes to filter down to studies that will collect or produce data, and filter out those studies that will not collect or produce data. <mark>This field may also be used by the Platform to flag studies for outreach to HEAL investigators based on their answers to provide data sharing support and extend data collaboration invitations.</mark> 
+    </blockquote></details>    
     </blockquote></details>
-    </li>    
-    </blockquote></details>
-    </li>
+    
     
     <details><summary>**Will the study make data available? None/Some/All**</summary>
 
