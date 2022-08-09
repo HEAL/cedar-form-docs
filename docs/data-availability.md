@@ -4,13 +4,18 @@
 * The Platform will provide access to a re-visitable portal on the Platform that will allow investigators to update metadata fields that will/may need to be updated as a HEAL study moves through its life-cycle. <mark>If you need to update metadata fields from the CEDAR form before this portal is available, please reach out to the Platform Help Desk at heal-support@datacommons.io for assistance.</mark> 
 * The Data Availability form section has ten fields (<mark>click below to expand guidance for each field</mark>):
  
-    <details><summary>**Will the study collect or produce data? Yes/No**</summary> 
-
-    * **How to answer:** Not all HEAL studies will collect or produce data. For example, some studies will do the ‘pre-work’ of developing methods and protocols for later use by future studies that will implement and collect data using that developed protocol. If your study will NOT collect or produce **data**, but will produce shareable products other than data (e.g. protocols, slide decks, etc.) please answer “No” to this question and “Yes” to a later question in this section that asks if your study will produce shareable products other than data. 
-    * **How this field will be used:** This field will allow Platform users that are specifically looking for study data that may be useful for their purposes to filter down to studies that will collect or produce data, and filter out those studies that will not collect or produce data. <mark>This field may also be used by the Platform to flag studies for outreach to HEAL investigators based on their answers to provide data sharing support and extend data collaboration invitations.</mark> 
+    <li> <details><summary>**Will the study collect or produce data? Yes/No**</summary><blockquote>
+    <li> <details><summary>**How to answer**</summary><blockquote>
+        Not all HEAL studies will collect or produce data. For example, some studies will do the ‘pre-work’ of developing methods and protocols for later use by future studies that will implement and collect data using that developed protocol. If your study will NOT collect or produce **data**, but will produce shareable products other than data (e.g. protocols, slide decks, etc.) please answer “No” to this question and “Yes” to a later question in this section that asks if your study will produce shareable products other than data. 
+    </blockquote></details>
+    </li>
+    <li> <details><summary>**How this field will be used**</summary><blockquote>
+        This field will allow Platform users that are specifically looking for study data that may be useful for their purposes to filter down to studies that will collect or produce data, and filter out those studies that will not collect or produce data. <mark>This field may also be used by the Platform to flag studies for outreach to HEAL investigators based on their answers to provide data sharing support and extend data collaboration invitations.</mark> 
+    </blockquote></details>
+    </li>    
+    </blockquote></details>
+    </li>
     
-    </details>
-
     <details><summary>**Will the study make data available? None/Some/All**</summary>
 
     * **How to answer:** <mark>This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?”</mark> If your study does not plan to make any of the data you collect or produce available in a HEAL approved data repository, select “None” (while most HEAL studies are obligated by the terms of their award to share data, this may apply to select HEAL studies – e.g. SBIR grants). If your study plans to make some data available, but not all (e.g. only data needed to reproduce publications, only processed data files, only extensively de-identified data, excluding certain data sets or sources used in your study such as administrative data when the DSA under which you obtained them does not allow sharing, etc.), select “Some”. If your study plans to make all data available to the greatest extent possible (e.g. sharing very close to raw clinical trial data in a data repository with strong access control mechanisms and subject to very strong access controls, including some features data that may be very useful for specific analysis but also pose a real risk of re-identification, such as highly granular geographic information, detailed diagnostic and care provision or utilization patterns, and/or clinician notes), select “All”.  
