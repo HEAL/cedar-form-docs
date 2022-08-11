@@ -8,7 +8,7 @@
     * [(Meta)data Location](meta-data-location.md) 
     * [Data Availability](data-availability.md)
     * [Study Translational Focus](study-translational-focus.md) 
-    * Study Type 
+    * [Study Type](study-type.md) 
     * Human Treatment Applicability 
     * Human Condition Applicability 
     * Human Subject Applicability
