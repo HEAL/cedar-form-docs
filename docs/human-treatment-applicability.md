@@ -1,10 +1,11 @@
 # Human Treatment Applicability
 
 !!! note
-<mark>**The fields in this section only apply to your study if you answered "Treatment" or "Treatment of a Condition" to the Study Translational Focus question in the [Study Translational Focus](study-translational-focus.md) form section**</mark>
+* <mark>**The fields in this section only apply to your study if you answered "Treatment" or "Treatment of a Condition" to the Study Translational Focus question in the [Study Translational Focus](study-translational-focus.md) form section**</mark>
 
-!!! note
-**Please reach out to us at heal-support@datacommons.io for questions or support - we are happy to help!**
+* **Please reach out to us at heal-support@datacommons.io for questions or support - we are happy to help!**
+
+****
 
 * [Expand](expand-or-collapse-cedar-form-section.md) the Human Treatment Applicability form section
 * The Human Treatment Applicability form section has five fields (<mark>click below to expand guidance for each field</mark>):
@@ -12,55 +13,134 @@
     <details><summary>**Treatment Investigation Stage or Type**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
-        <ul>
-        <li> This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Target Discovery","Target Mechanism", "Treatment Discovery", "Treatment Mechanism", "Treatment Efficacy", "Differential Treatment Efficacy", "Treatment Implementation", and "Treatment Availability or Accessibility".
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Target Discovery","Target Mechanism", "Treatment Discovery", "Treatment Mechanism", "Treatment Efficacy", "Differential Treatment Efficacy", "Treatment Implementation", and "Treatment Availability or Accessibility". Examples of studies that would select each of these options:
+        <ul> 
+        <li> **Target discovery:**    
+        </li>
+        <li> **Target mechanism:** 
+        </li>
+        <li> **Treatment discovery:** 
+        </li>
+        <li> **Treatment mechanism:** 
+        </li>
+        <li> **Treatment efficacy:**  
+        </li>
+        <li> **Treatment implementation:**  
+        </li>
+        <li>  **Treatment availability or accessibility:** 
         </li> 
-        <li> In the case of <u>human subjects studies</u>, a Condition-focused study might look like an observational prospective cohort study following developmental markers in babies exposed to opioids in utero from birth through adolesence; a Treatment-focused study might look like a randomized control trial testing efficacy of a novel non-opioid drug for pain versus status quo use of an opioid drug. In the case of <u>basic science or non-human subjects studies</u>, a Condition-focused study might look like a biochemical study investigating the molecular mechanisms of cell signalling in pain/nociception; a Treatment-focused study might look a small molecule screen to discover chemical drugs that activate or deactivate a molecular target involved in opioid-addictive or overdose pathways.     
+        </ul>   
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
-        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page. As noted above, we expect that folks from a wide variety of roles coming to the HEAL Platform (HEAL Platform users) will often be looking for studies, study data, and study-generated knowledge in a condition- or treatment-focused manner; They will want to find studies, study data, and study-generated knowledge that allow them to better study and/or understand 1) a human opoid or pain condition and/or 2) treatments, interventions, or solutions at the individual or community level that address human opioid or pain conditions. We expect that identification of your study as either Condition- or Treatment-focused will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested 
+        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
+        <ul>
+        <li> **Specifically looking for target discovery:** I'm a pharma company scientist with capacity to do high throughput screens for drug library impact on a target of interest and I want to be up on the research and discovery of novel targets for pain or opioid use treatment so that I can think about designing a screen to figure out how to drug those targets; I'm a local public health official or politician looking to implement some policies or resources to address the problem of opioid use relapse in my community and want to see if there are specific social or mental/behavioral determinants that have been identified as good targets for intervention to prevent opioid use relapse.  
+        </li>
+        <li> **Specifically looking for target mechanism:** I'm a researcher pain researcher doing target mechanism research for a specific target biomolecule - I want to see if anyone else is doing research on this mechanism that I can learn from, or using assays that I can adopt in my own target mechanism research; I'm a pharma company scientist - preliminary research to drug one target has failed due to unacceptable toxicity and I want to understand more about the original biomolecule target mechanism to see if there is another possible biomolecule target in the original target mechanism pathway that I can attempt to drug instead with acceptable toxicitiy levels
+        </li>
+        <li> **Specifically looking for treatment discovery:** I'm a family memnber of a person with OUD - my family member is allergic to methadone and has trouble remembering to take a daily pill of buprenorphine to keep their OUD in remission and I want to see what research is being done to develop new treatments for OUD that might work better for my family member; I'm a clinician treating pain or OUD patients - I want to keep up on the latest research into treatments relevant to my patient population so that I can make sure to get my patients access to the best treatment for them in a timely manner
+        </li>
+        <li> **Specifically looking for treatment mechanism:** I'm a pain or OUD patient - my doctor prescribed a new medication for my condition and I'm curious about how it works; I'm a clinician - I want to keep up to date on the research around the treatments I prescribe to my patients in order to understand who a specific treatment may work best for or whether there might be contraindications for example due to drug interactions; I'm a researcher at a pharma company and want to keep up to date on the research of how a drug at my or a competitor pharma company works to think about developing new drugs or formulations of the same drug that may yield increased efficacy and/or decreased side-effects
+        </li>
+        <li> **Specifically looking for treatment efficacy:** I'm a pain or opioid use patient and I heard about a novel treatment for my condition - I want to see if there are any studies looking at the efficacy of this novel treatment, maybe even differential efficacy to see if it might be particularly effective/ineffective for me; I'm a researcher trying to collate all of the evidence available on a specific treatment/intervention efficacy for a meta-analysis 
+        </li>
+        <li> **Specifically looking for treatment implementation:** I'm a clinician or administrator at a clinic or jail facility - I want to implement a specific intervention protocol for prevention of opioid overdose at my facility and I want to see if there's information about how best to implement this protocol 
+        </li>
+        <li>  **Specifically looking for treatment availability or accessibility:** I'm a pain or opioid use patient and I want to find substance use treatment facilities near me that also offer a specific type of treatment (e.g. MAT with buprenorphine); I'm a researcher who wants to understand the impact of treatment/intervention availability or accessibility on uptake and efficacy of the treatment or to use the relative availability or non-availability of a treatment across locations to design a natural experiment examining the efficacy of that treatment
+        </li>
+        </ul>
     </blockquote></details>    
     </blockquote></details>
     
     
-    <details><summary>**Types of Determinants/Mechanisms the study is investigating**</summary><blockquote>
-                    
-    <details><summary>**How to answer**</summary><blockquote> 
+    <details><summary>**Treatment Mode**</summary><blockquote>
+    
+    <details><summary>**How to answer**</summary><blockquote>
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Preventive","Therapeutic", "Harm Reduction". Examples of studies that would select each of these options:
+        <ul> 
+        <li> **Preventive:**    
+        </li>
+        <li> **Therapeutic:** 
+        </li>
+        <li> **Harm Reduction:** 
+        </li>
+        </ul>   
+    </blockquote></details>
+    <details><summary>**How this field will be used**</summary><blockquote>
+        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
         <ul>
-        <li> This field allows selection of multiple answers from a limited set of possible answers. Please choose all that apply.Possible answers are "Biology and Health", "Mental Health", "Social Determinants", and "Public Attitudes or Stigma".
-        </li> 
-        <li> If your study is <u>**Condition-focused**</u>, think about what types of determinants or mechanisms of the human opioid or pain condition you are investigating:
-            <ul> 
-            <li> a study focused on molecular or biophysical mechanism of bodily injury and pain perception would select "Biology and Health"
-            </li> 
-            <li> an observational study measuring the incidence and timing of onset of rumination and other anxiety or depressive symptoms/states in patients that do or do not transition from acute to chronic pain would select "Mental Health"
-            </li>
-            <li> if the same study also measures items such as income and education level, family support, access to healthcare and food, etc. then they would ALSO select "Social Determinants"
-            </li>
-            <li> if the same study also measures items such as the individual's perceived level of stigma from friends/family/employers around their pain experience they they would also select "Public Attitudes or Stigma" 
-            </li>
-            <li> a survey study of a random sample of Americans asking these individuals about their own attitudes towards individuals with opioid use disorder would select "Public Attitudes or Stigma"; they may also select "Social Determinants" (since public attitudes and stigma are a subset of all social determinants) 
-            </li>
-            </ul>
+        <li> **Specifically looking for preventive:**   
         </li>
-        <li> If your study is <u>**Treatment-focused**</u>, think about the mechanism of the treatment, intervention or solution you are investigating:
-            <ul> 
-            <li> a small molecule screen study looking for drugs that inhibit a novel protein target in the opioid reward pathway as a possible drug candidate to treat opioid use disorder, or a study investigating efficacy of a drug or surgical procedure to treat chronic back pain, would select "Biology and Health"
-            </li> 
-            <li> a study investigating relative efficacy of group therapy versus one-on-one therapy to prevent opioid use relapse would select "Mental Health"
-            </li>
-            <li> a study investigating efficacy of providing individuals with a history of opioid use who are leaving jail with either medication for opioid use disorder (MOUD) alone or MOUD plus supports such as housing, food, and education/employment assistance would select "Biology and Health" AND "Social Determinants"
-            </li>
-            <li> a study investigating efficacy of a community-level communications campaign focused on a central message of opioid use disorder as a disease of health condition to change publica attitudes/reduce stigma towards individuals with opioid use disorder would select "Public Attitudes or Stigma" 
-            </li>
-            </ul>
+        <li> **Specifically looking for therapeutic:** 
         </li>
-        </ul> 
+        <li> **Specifically looking for harm reduction:** 
+        </li>
+        </ul>
+    </blockquote></details>    
     </blockquote></details>
-    <details><summary>**How this field will be used**</summary><blockquote> 
-        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page. Platform users looking for information about treatments for a human opioid use or pain condition may specifically be interested in a certain type of treatment mode and can use this field to filter down to the studies in which they are most interested; A patient with opioid use disorder may want to specifically look for something like a mental health intervention/treatment because they are reluctant to use medication to treat their condition, or they are in a rehab facility that does not allow medication (filter on value "Mental Health"); A pain clinician who has historically treated patients with opioid drugs and seen some patients become addicted may specifically want to look for information on any non-opioid drugs for treating pain (filter on value "Biology and Health"); A public health official in an area with high rates of opioid overdose despite high naloxone availability might suspect that social determinants (e.g. attitudes/stigma, lack of communication/education, lack of transportation to distribution centers, etc.) are playing a role in low uptake/effective use of naloxone to prevent overdoses (filter on value "Social Determinants"). Filtering on this field will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested         
+
+    <details><summary>**Treatment Novelty**</summary><blockquote>
+    
+    <details><summary>**How to answer**</summary><blockquote>
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Novel","Novel, added to established","Established","Established, used in novel population, setting or combination". Examples of studies that would select each of these options:
+        <ul> 
+        <li> **Novel:**    
+        </li>
+        <li> **Novel, added to established:** 
+        </li>
+        <li> **Established:** 
+        </li>
+        <li> **Established, used in novel population, setting or combination:** 
+        </li>
+        </ul>   
     </blockquote></details>
+    <details><summary>**How this field will be used**</summary><blockquote>
+        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
+        <ul>
+        <li> **Specifically looking for novel:**   
+        </li>
+        <li> **Specifically looking for novel, added to established:** 
+        </li>
+        <li> **Specifically looking for established:** 
+        </li>
+        <li> **Specifically looking for established, used in novel population, setting or combination:** 
+        </li>
+        </ul>
+    </blockquote></details>    
     </blockquote></details>
+
+    <details><summary>**Is the Treatment given/applied to individuals or populations?**</summary><blockquote>
+    
+    <details><summary>**How to answer**</summary><blockquote>
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Individual","Population". Examples of studies that would select each of these options:
+        <ul> 
+        <li> **Individual:**    
+        </li>
+        <li> **Population:** 
+        </li>
+        </ul>   
+    </blockquote></details>
+    <details><summary>**How this field will be used**</summary><blockquote>
+        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
+        <ul>
+        <li> **Specifically looking for individual:**   
+        </li>
+        <li> **Specifically looking for population:** 
+        </li>
+        </ul>
+    </blockquote></details>    
+    </blockquote></details>
+
+    <details><summary>**Treatment Type**</summary><blockquote>
+    
+    <details><summary>**How to answer**</summary><blockquote>
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply.   
+    </blockquote></details>
+    <details><summary>**How this field will be used**</summary><blockquote>
+        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
+    </blockquote></details>    
+    </blockquote></details>
+
 
 * Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section (and [save](save-cedar-form.md) your form!)
     
