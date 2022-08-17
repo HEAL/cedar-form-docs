@@ -9,7 +9,7 @@
     * [Data Availability](data-availability.md)
     * [Study Translational Focus](study-translational-focus.md) 
     * [Study Type](study-type.md) 
-    * Human Treatment Applicability 
+    * [Human Treatment Applicability](human-treatment-applicability.md) 
     * Human Condition Applicability 
     * Human Subject Applicability
     * Data 
