@@ -15,19 +15,19 @@
     <details><summary>**How to answer**</summary><blockquote>
         This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Target Discovery","Target Mechanism", "Treatment Discovery", "Treatment Mechanism", "Treatment Efficacy", "Differential Treatment Efficacy", "Treatment Implementation", and "Treatment Availability or Accessibility". Examples of studies that would select each of these options:
         <ul> 
-        <li> **Target discovery:**    
+        <li> **Target discovery:** A study that has developed RNAi reagants against several different proteins in the nociception signaling pathway and is using these reagants to knockdown each of these proteins and observe resulting modifications to pain response in mice to determine which protein(s) may be good targets of a drug or other intervention to modify pain perception in humans; A longitudinal cohort study following a cohort of adults at high risk of injury (e.g. construction workers) that measures aspects of mental health, social support and connectivity, economic stability, political engagement, sense of agency, physical environment, etc. using multiple metrics each at regular timepoints and intends to investigate relationships between these broad sectors and incidence of injury and/or transition of acute to chronic pain following incidence of injury to determine which of these broad sectors may be good targets of an intervention of some kind to modify risk of injury or transition from acute to chronic pain in the case of injury in adults at high risk of injury        
         </li>
-        <li> **Target mechanism:** 
+        <li> **Target mechanism:** A basic science study using RNAseq and/or mass spectrometry on extracts of cultured mouse DRG neurons before and after exposure to an in vitro heat pain stimulus model ([ref](https://www.pnas.org/doi/epdf/10.1073/pnas.93.26.15435)), and with or without application of RNAi or chemical inhibitor of a target molecule in the nociception pathway, to investigate the role of the target molecule in modulating level and state of mRNA and proteins in neurons following a pain stimulus; A qualitative study using focus groups and interviews to investigate why certain aspects of a person's economic stability and/or physical environment such as access to green space and well-maintained walkways seem to correspond with lower risk of transition from acute to chronic pain in adults with lower back injury; 
         </li>
-        <li> **Treatment discovery:** 
+        <li> **Treatment discovery:** A small molecule screen to identify a chemical drug capable of inhibiting the enzymatic activity of a molecular protein signaling target in the nociception signaling pathway; A study that identifies groups of adults at high risk of injury that by chance were exposed to different interventions on environmental conditions that impacted their access to green space (e.g. construction workers that live in different states or cities around the country or even parts of the same city where the city or city area may have used pandemic funding to improve existing park space, facilities, or park programming, or add new mini-parks, or improve public transportation to parks, or improve walking infrastructure like sidewalks, crosswalks, parkway trees, benches, or water fountains on the way to parks), or to no intervention, and is able to follow incidence of injury and rate of conversion of acute to chronic pain among those who are injured in these groups to investigate which, if any, of these different environmental interventions shows potential for reducing risk of injury and/or risk of acute to chronic pain conversion following injury 
         </li>
         <li> **Treatment mechanism:** 
         </li>
-        <li> **Treatment efficacy:**  
+        <li> **Treatment efficacy:** A stage 3 clinical trial RCT randomizing half of individuals to use of a minimally invasive, implated MOUD-dispensing device plus daily dummy MOUD pills and half to a dummy device and real MOUD pills to test efficacy of the device in preventing OUD relapse;   
         </li>
-        <li> **Treatment implementation:**  
+        <li> **Treatment implementation:** A study testing efficacy of a mental health and social determinants screening survey to guide OUD treatment decisions in community hospital-based physician practices that also collects qualitative and quantitative data on various aspects and metrics of implementation of the screening mechanism in this type of practice setting that may aid others implementing this type of intervention in the future;  
         </li>
-        <li>  **Treatment availability or accessibility:** 
+        <li>  **Treatment availability or accessibility:** A study surveying all substance use facilities in the country that receive any federal dollars about whether they offer OUD treatments and if so, what modes of treatment (e.g. in/outpatient, MOUD/methadone/buprenorphine), and to who do they offer treatment (e.g. any restrictions based on gender, age, health insurance, co-occurring mental health conditions, etc.); A study using EHR and claims data to investigate sociodemographic disparities in how frequently patients with OUD are given a prescription for MOUD, or in how frequently patients fill prescriptions for MOUD
         </li> 
         </ul>   
     </blockquote></details>
@@ -58,7 +58,7 @@
     <details><summary>**How to answer**</summary><blockquote>
         This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Preventive","Therapeutic", "Harm Reduction". Examples of studies that would select each of these options:
         <ul> 
-        <li> **Preventive:**    
+        <li> **Preventive:** A basic science or clinical study developing or testing efficacy of an opioid vaccine to promote development of opioid antibodies and prevent opioid overdose when the patient is exposed to opioids; A cluster RCT with randomization at the school level testing the efficacy of school-based after-school programming for junior high school students alone versus after-school programming plus a monthly unconditional cash transfer to the child's family to prevent future opioid use and dependence; a natural experiment study using implementation or not and differential implementation of medicaid expansion across states to investigate a potential role for medicaid expansion in preventing transition from acute to chronic pain in patients with low back injury.       
         </li>
         <li> **Therapeutic:** 
         </li>
@@ -78,6 +78,9 @@
         </ul>
     </blockquote></details>    
     </blockquote></details>
+
+    • I'm a public health official with some money set aside for addressing opioid use in my community, and I specifically want to look for at least one intervention that will treat the existing OUD harms to individuals in my community and at least one intervention that will help to prevent future OUD harms to individuals in my community 
+• I'm a clinician and I specifically want to look for therapeutic interventions for my patients
 
     <details><summary>**Treatment Novelty**</summary><blockquote>
     
