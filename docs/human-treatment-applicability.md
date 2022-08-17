@@ -1,21 +1,28 @@
 # Human Treatment Applicability
 
-!!! note
-* <mark>**The fields in this section only apply to your study if you answered "Treatment" or "Treatment of a Condition" to the Study Translational Focus question in the [Study Translational Focus](study-translational-focus.md) form section**</mark>
 
-* **Please reach out to us at heal-support@datacommons.io for questions or support - we are happy to help!**
+* <mark>The fields in this section only apply to your study if you answered "Treatment" or "Treatment of a Condition" to the Study Translational Focus question in the [Study Translational Focus](study-translational-focus.md) form section</mark>
+
+* Please reach out to us at heal-support@datacommons.io for questions or support - we are happy to help!
+
+****
+
+* See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md)
+* See the [Human Treatment Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_treatment_applicability) element of the full metadata model 
+* See the <u>definition for each field</u> in the full metadata model, and allowed answer options, by clicking on the field names in bold below 
+* See <u>guidance for how to respond to each field</u> and <u>Platform User use cases for the field</u> by clicking on the arrow to the left of the field names in bold below
 
 ****
 
 * [Expand](expand-or-collapse-cedar-form-section.md) the Human Treatment Applicability form section
-* The Human Treatment Applicability form section has five fields (<mark>click below to expand guidance for each field</mark>):
+* The Human Treatment Applicability form section has five fields (click below to expand guidance for each field):
     
-    <details><summary>**Treatment Investigation Stage or Type**</summary><blockquote>
+    <details><summary>**[Treatment Investigation Stage or Type](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_investigation_stage_or_type)**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
         This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Target Discovery","Target Mechanism", "Treatment Discovery", "Treatment Mechanism", "Treatment Efficacy", "Differential Treatment Efficacy", "Treatment Implementation", and "Treatment Availability or Accessibility". Examples of studies that would select each of these options:
         <ul> 
-        <li> **Target discovery:** A study that has developed RNAi reagants against several different proteins in the nociception signaling pathway and is using these reagants to knockdown each of these proteins and observe resulting modifications to pain response in mice to determine which protein(s) may be good targets of a drug or other intervention to modify pain perception in humans; A longitudinal cohort study following a cohort of adults at high risk of injury (e.g. construction workers) that measures aspects of mental health, social support and connectivity, economic stability, political engagement, sense of agency, physical environment, etc. using multiple metrics each at regular timepoints and intends to investigate relationships between these broad sectors and incidence of injury and/or transition of acute to chronic pain following incidence of injury to determine which of these broad sectors may be good targets of an intervention of some kind to modify risk of injury or transition from acute to chronic pain in the case of injury in adults at high risk of injury        
+        <li> **Target discovery:** Some general examples include a study focused on identification of a molecular target that treats pain that is not in the brain to avoid neurological/addictive effects, or a study focused on identification of a specific social determinant of health that is most impactful on post-surgical pain outcome. Some more specific examples include: A study that has developed RNAi reagants against several different proteins in the nociception signaling pathway and is using these reagants to knockdown each of these proteins and observe resulting modifications to pain response in mice to determine which protein(s) may be good targets of a drug or other intervention to modify pain perception in humans; A longitudinal cohort study following a cohort of adults at high risk of injury (e.g. construction workers) that measures aspects of mental health, social support and connectivity, economic stability, political engagement, sense of agency, physical environment, etc. using multiple metrics each at regular timepoints and intends to investigate relationships between these broad sectors and incidence of injury and/or transition of acute to chronic pain following incidence of injury to determine which of these broad sectors may be good targets of an intervention of some kind to modify risk of injury or transition from acute to chronic pain in the case of injury in adults at high risk of injury        
         </li>
         <li> **Target mechanism:** A basic science study using RNAseq and/or mass spectrometry on extracts of cultured mouse DRG neurons before and after exposure to an in vitro heat pain stimulus model ([ref](https://www.pnas.org/doi/epdf/10.1073/pnas.93.26.15435)), and with or without application of RNAi or chemical inhibitor of a target molecule in the nociception pathway, to investigate the role of the target molecule in modulating level and state of mRNA and proteins in neurons following a pain stimulus; A qualitative study using focus groups and interviews to investigate why certain aspects of a person's economic stability and/or physical environment such as access to green space and well-maintained walkways seem to correspond with lower risk of transition from acute to chronic pain in adults with lower back injury; 
         </li>
@@ -53,10 +60,10 @@
     </blockquote></details>
     
     
-    <details><summary>**Treatment Mode**</summary><blockquote>
+    <details><summary>**[Treatment Mode](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_mode)**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
-        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Preventive","Therapeutic", "Harm Reduction". Examples of studies that would select each of these options:
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Preventive","Therapeutic", "Harm Reduction". <u>Please consider:</u> Is the treatment, intervention, or solution my study is relevant to meant to 1) prevent the occurrance of a condition (e.g. development of a non-opioid drug for pain to prevent opioid exposure and addiction, case management and MAT for pregnant women to prevent in utero exposure to opioids, safe injection and needle exchange center to prevent overdose and spread of blood borne diseases among people using heroin), 2) treat an occurrance of a condition (e.g. naloxone to treat opioid overdose, physical therapy to treat existing pain from a back injury), and/or 3) is it a harm reduction mechanism (e.g. safe injection and needle exchange site reduces harm associated with heroin addiction/use, decriminalization of heroin possession or use reduces the harm associated with heroin addiction/use)Examples of studies that would select each of these options:
         <ul> 
         <li> **Preventive:** A basic science or clinical study developing or testing efficacy of an opioid vaccine to promote development of opioid antibodies and prevent opioid overdose when the patient is exposed to opioids; A cluster RCT with randomization at the school level testing the efficacy of school-based after-school programming for junior high school students alone versus after-school programming plus a monthly unconditional cash transfer to the child's family to prevent future opioid use and dependence; a natural experiment study using implementation or not and differential timing of implementation of medicaid expansion across states to investigate a potential role for medicaid expansion in preventing transition from acute to chronic pain in patients with low back injury.       
         </li>
@@ -73,7 +80,7 @@
         </li>
         <li> **Specifically looking for therapeutic:** I'm a clinician and I specifically want to look for therapeutic interventions for my patients; I'm a fibromyalgia patient with poorly controlled pain and I want to look for novel therapies for pain 
         </li>
-        <li> **Specifically looking for harm reduction:** 
+        <li> **Specifically looking for harm reduction:** I'm a clinician treating patients with OUD, some of whom are at high risk of relapse and I want to look for harm reduction approaches to offer especially to these high risk patients; I'm a mayor of a town with crisis rates of opioid overdose and observable outbreaks of drug-injection associated blood-borne diseases like Hepatitis C and HIV and I want to look for interventions that will reduce these immediate catastrophic harms in my town as soon as possible  
         </li>
         </ul>
     </blockquote></details>    
@@ -81,40 +88,42 @@
 
     
 
-    <details><summary>**Treatment Novelty**</summary><blockquote>
+    <details><summary>**[Treatment Novelty](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_novelty)**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
-        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Novel","Novel, added to established","Established","Established, used in novel population, setting or combination". Examples of studies that would select each of these options:
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Novel","Novel, added to established","Established","Established, used in novel population, setting or combination". <u>Please consider:</u> Is the treatment, intervention, or solution my study is relevant to totally novel, is it totally established, does it have some element of novelty added to an established intervention (novel added to established, established used in a novel population, setting, or combination)? Examples of studies that would select each of these options:
         <ul> 
-        <li> **Novel:**    
+        <li> **Novel:** A basic science study doing initial in vitro and animal model testing of a novel mRNA editing approach to modifying the molecular pathways responsible for pain pathway signaling in humans;    
         </li>
-        <li> **Novel, added to established:** 
+        <li> **Novel, added to established:** A study testing efficacy of adding opt-in access to novel support services (help obtaining housing, food benefits, obtaining official identification records, legal advice, free phones, etc.) at safe injection and needle exchange sites (an established harm-reduction intervention)  
         </li>
-        <li> **Established:** 
+        <li> **Established:** A replication study testing efficacy of MOUD for patients diagnosed with OUD; A meta-analysis of trials that have tested the efficacy of an established back surgery procedure to reduce chronic back pain in individuals with low back injury; An implementation study documenting implementation and efficacy with respect to outcomes of an established harm reduction strategy such as community-based safe injection and needle-exchange sites  
         </li>
-        <li> **Established, used in novel population, setting or combination:** 
+        <li> **Established, used in novel population, setting or combination:** A study investigating efficacy of a MAT + community support navigator intervention to reduce risk of overdose for individuals leaving the emergency room following opioid overdose, when the efficacy of this intervention has already been well-established for individuals with history of OUD leaving jail
         </li>
         </ul>   
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
         The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
         <ul>
-        <li> **Specifically looking for novel:**   
+        <li> **Specifically looking for novel:** I'm a journalist and I want to write a splashy article on novel treatments being developed, or about established treatments being used in novel ways  
         </li>
-        <li> **Specifically looking for novel, added to established:** 
+        <li> **Specifically looking for novel, added to established:** I'm a pain patient with chronic pain on a physical therapy and low dose opioid treatment regimen, I still live with pain, and want to look for any studies that add something new to these established treatments to get better results; I'm a community-based org running a safe injection and needle exchange site and I want to keep up to date on novel innovations other communities may be testing that add on to or modify this established effective intervention
         </li>
-        <li> **Specifically looking for established:** 
+        <li> **Specifically looking for established:** I'm a public health official with some money set aside for addressing opioid use in my community, and I specifically want to look for at an intervention that is established so that politicians allocating the money for this intervention can clearly say that the money is going towards an evidence-based established intervention
         </li>
-        <li> **Specifically looking for established, used in novel population, setting or combination:** 
+        <li> **Specifically looking for established, used in novel population, setting or combination:** I'm a journalist and I want to write a splashy article on novel treatments being developed, or about established treatments being used in novel ways
         </li>
         </ul>
     </blockquote></details>    
     </blockquote></details>
 
-    <details><summary>**Is the Treatment given/applied to individuals or populations?**</summary><blockquote>
+
+
+    <details><summary>**[Is the Treatment given/applied to individuals or populations?](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_application_level)**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
-        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Individual","Population". Examples of studies that would select each of these options:
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Possible answers are "Individual","Population". <u>Please consider:</u> Is the treatment, intervention, or solution my study is relevant to applied at the individual level (e.g. a doctor prescribes a drug or physical therapy regimen to a patient) or at the population/community/group level (e.g. a city changes good samaritan naloxone laws, or implements a safe needle exchange center or communications/education campaign, or adds park maintenance resources to the budget to provide more access to outside places to exercise)? Examples of studies that would select each of these options:
         <ul> 
         <li> **Individual:**    
         </li>
@@ -125,21 +134,23 @@
     <details><summary>**How this field will be used**</summary><blockquote>
         The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
         <ul>
-        <li> **Specifically looking for individual:**   
+        <li> **Specifically looking for individual:** I'm a pain or OUD patient and I specifically want to look for treatments that are relevant to me as an indivdiual   
         </li>
-        <li> **Specifically looking for population:** 
+        <li> **Specifically looking for population:** I'm a public health official with some money set aside for addressing opioid use in my community, and I specifically want to allocate this money to population/community level interventions 
         </li>
         </ul>
     </blockquote></details>    
     </blockquote></details>
+    
 
-    <details><summary>**Treatment Type**</summary><blockquote>
+
+    <details><summary>**[Treatment Type](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_type)**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
-        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply.   
+        This field allows selection of a multiple answers from a limited set of possible answers. Please select all that apply. Please classify the treatment, intervention, or solution your study is relevant to by broad type of intervention  
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
-        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** 
+        The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. **Examples include:** I'm a clinician treating pain patients and I specifically want to keep up to date on any research and development of <u>non-opioid drugs</u> to treat pain and/or <u>non-drug</u> treatments for pain; I'm a pain patient and I've read on the internet that <u>physical therapy</u> and/or <u>exercise</u> and/or <u>electrotherapy</u> might be helpful and I want to see if there's research/evidence on these interventions
     </blockquote></details>    
     </blockquote></details>
 
