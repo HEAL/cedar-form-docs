@@ -10,7 +10,7 @@
     * [Study Translational Focus](study-translational-focus.md) 
     * [Study Type](study-type.md) 
     * [Human Treatment Applicability](human-treatment-applicability.md) 
-    * Human Condition Applicability 
+    * [Human Condition Applicability](human-condition-applicability.md) 
     * Human Subject Applicability
     * Data 
 * Start by collapsing all of these sections down so that all you see is the (green text) heading for each of these form sections.
