@@ -143,14 +143,19 @@ Expand the Data section. This section has seven fields; click below to expand gu
     <details><summary>**[Human Subject Geographic Data - Collected at what level of detail?](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=subject_geographic_data_level_collected)**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
-        This field ONLY APPLIES if you answered “Human” to the study subject type in the Study Type section AND “Yes” to “Will your study collect or produce data?” in the Data Availability section. 
-        This field allows multiple selections, included in the full metadata model definitions. Select all that apply. For studies with human subjects, will geographic data be collected? If so, at what level of geographic detail? For example:
-        Exact location: Your study will collect exact address information for enrolled individuals.
-        Zip code: Your study will collect zip code information for enrolled individuals.
+        This field ONLY APPLIES if you answered “Human” to the study subject type in the Study Type section AND “Yes” to “Will your study collect or produce data?” in the Data Availability section.
+        <br> 
+        <br>
+        This field allows multiple selections, included in the full metadata model [definitions](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=subject_geographic_data_level_collected). Select all that apply. For studies with human subjects, will geographic data be collected? If so, at what level of geographic detail? **For example:**
+        <br>
+    
+       * **Exact location:** Your study will collect exact address information for enrolled individuals.
+       * **Zip code:** Your study will collect zip code information for enrolled individuals.
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
-        These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. They will also appear, as text, on the HEAL Platform study page so users can easily access the information. For example:
-        Exact location; Census block; OR Census tract geographic data collected field: A researcher conducting a meta-analysis of studies on housing insecurity impacts on OUD outcomes, following residential OUD treatment, will limit studies to those collecting individual data, including high-resolution geographic data, to combine this data and correct for socio-environmental factors. They need geographic data at least as specific as the census tract. Even if the study isn’t currently making this data available in a public data repository, they may be able to contact the study authors to collaborate and access the data for their analysis.
+        These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. They will also appear, as text, on the HEAL Platform study page so users can easily access the information. **For example:**
+        
+       * **Exact location; Census block;** OR **Census tract** geographic data collected field: A researcher conducting a meta-analysis of studies on housing insecurity impacts on OUD outcomes, following residential OUD treatment, will limit studies to those collecting individual data, including high-resolution geographic data, to combine this data and correct for socio-environmental factors. They need geographic data at least as specific as the census tract. Even if the study isn’t currently making this data available in a public data repository, they may be able to contact the study authors to collaborate and access the data for their analysis.
     </blockquote></details>    
     </blockquote></details>
 
@@ -158,17 +163,24 @@ Expand the Data section. This section has seven fields; click below to expand gu
     
     <details><summary>**How to answer**</summary><blockquote>
         This field ONLY APPLIES if you answered “Human” to the study subject type question in the Study Type section AND “Yes” to “Will your study collect or produce data?” in the Data Availability section. 
-        This field allows multiple selections, included in the full metadata model definitions. Select all that apply. 
+        <br>
+        <br>
+        This field allows multiple selections, included in the full metadata model [definitions](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=subject_geographic_data_level_available). Select all that apply.
+        <br>
+        <br> 
         For studies with human subjects that collect geographic data and will make at least some data available, will geographic data be available? If so, what level of geographic detail?
-        For example: 
-        Zip Code: Your study will collect exact address information, but will only make zip code level geographic data available in a public repository. 
-        Zip Code AND State: Your study will collect zip code information and make two distinct datasets available in a public repository, a restricted-access dataset with zip code information, and an open-access dataset with zip code information, coded up to the state-level. 
+        <br>
+        <br>
+        **For example:** 
+
+    * **Zip Code:** Your study will collect exact address information, but will only make zip code level geographic data available in a public repository. 
+    * **Zip Code AND State:** Your study will collect zip code information and make two distinct datasets available in a public repository, a restricted-access dataset with zip code information, and an open-access dataset with zip code information, coded up to the state-level. 
 
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
-        These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. They will also be available on individual HEAL Platform study pages, providing users with easy access. For example:
-        Exact location; Census block; OR Census tract for both geographic data collected AND geographic data available, or just for geographic data available field: A researcher conducting a meta-analysis of studies on housing insecurity impacts on OUD outcomes, following residential OUD treatment, will limit studies to those collecting individual data, including high-resolution geographic data, to combine this data and correct for socio-environmental factors. They need geographic data at least as specific as census tract, and only want to include data that is already available in a public data repository.
-        Once complete, collapse the Data section and save your form.
+        These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. They will also be available on individual HEAL Platform study pages, providing users with easy access. **For example:**
+       
+       * **Exact location; Census block; OR Census tract** for both geographic data collected AND geographic data available, or just for geographic data available field: A researcher conducting a meta-analysis of studies on housing insecurity impacts on OUD outcomes, following residential OUD treatment, will limit studies to those collecting individual data, including high-resolution geographic data, to combine this data and correct for socio-environmental factors. They need geographic data at least as specific as census tract, and only want to include data that is already available in a public data repository.
 
     </blockquote></details>    
     </blockquote></details>
