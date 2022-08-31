@@ -17,6 +17,7 @@ For a single entry, click the field and enter the value. Then, click “OK” to
 
 ## Multiple URL Entries
 For multiple entries:
+
 * Click the field.
 * Click the “1,2,3 list” toggle to the left of the “?” icon in the upper right corner (if you mouse over this icon it will say “Toggle View”).
 * A spreadsheet interface will pop out.

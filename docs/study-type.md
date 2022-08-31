@@ -1,8 +1,8 @@
 # Study Type
 
-* [Expand](expand-or-collapse-cedar-form-section.md) the Study Type section. This section has five fields; click below to expand guidance for each field.
+[Expand](expand-or-collapse-cedar-form-section.md) the Study Type section. This section has five fields; click below to expand guidance for each field.
     
-    <details><summary>**Category or Type/Stage of Study Research**</summary><blockquote>
+   * <details><summary>**Category or Type/Stage of Study Research**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
     This field allows multiple answer selections. Select all that apply. Possible answers include:
@@ -67,11 +67,12 @@
 
     <details><summary>**How to answer**</summary><blockquote> 
         This field allows multiple answer selections from a response set, including: 
-    * Human
-    * Animal
-    * Human cell/tissue/tissue model
-    * Animal cell/tissue/tissue model
-    * Molecule
+        
+       * Human
+       * Animal
+       * Human cell/tissue/tissue model
+       * Animal cell/tissue/tissue model
+       * Molecule
 
         Select all that apply. For example:
 

@@ -1,5 +1,6 @@
 # Study Translational Focus
 **Context for the Study Translational form section:**
+
 * The HEAL Initiative was founded to **reduce deaths and other negative consequences** of OUD, opioid overdose, and opioid exposure.
 * The HEAL Initiative also focuses on **finding new solutions to human pain and pain management** (largely because opioid pain treatment is foundational in initiating OUD, and increases supply and access to opioid pills for pain patients and the general population).
 * Even when HEAL studies don’t involve human subjects, they are **Condition- or Treatment-focused**.
@@ -16,18 +17,21 @@
     
     <details><summary>**How to answer**</summary><blockquote>
         This field allows selection of a single answer from a limited set of choices, including: “Condition” for Condition-focused studies, and “Treatment” for Treatment-focused studies (see above for definitions). 
-
+        <br>
+        <br>
         Human subjects study examples:
-
-          Condition-focused: an observational prospective cohort study, following developmental markers in babies exposed to opioids in utero, from birth through adolescence
-        
-          Treatment-focused: a randomized control trial, testing efficacy of a novel non-opioid drug for pain versus status quo use of an opioid drug. 
+          <br>
+          <br>
+        **Condition-focused:** an observational prospective cohort study, following developmental markers in babies exposed to opioids in utero, from birth through adolescence
+        <br>
+        **Treatment-focused:** a randomized control trial, testing efficacy of a novel non-opioid drug for pain versus status quo use of an opioid drug. 
        
        Basic science or non-human subjects study examples:
-
-          Condition-focused: a biochemical study investigating the molecular mechanisms of cell signaling in pain/nociception
-
-          Treatment-focused: a small molecule screen to discover chemical drugs that activate or deactivate a molecular target involved in opioid-addictive or overdose pathways.   
+          <br>
+          <br>
+          **Condition-focused:** a biochemical study investigating the molecular mechanisms of cell signaling in pain/nociception
+          <br>
+          **Treatment-focused:** a small molecule screen to discover chemical drugs that activate or deactivate a molecular target involved in opioid-addictive or overdose pathways.   
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
         These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page. As noted above, a wide variety of Platform users will likely seek condition- or treatment-focused studies, study data, and study-generated knowledge, allowing them to better study and/or understand 1) a human opioid or pain condition and/or 2) opioid or pain treatments, interventions, or solutions at the individual or community level. Identification of your study as either Condition- or Treatment-focused, allows these users to more rapidly filter studies and discover the information they need.
@@ -52,7 +56,7 @@
             <li> Stigma
             </li>
             </ul>
-            Select all that applu.
+            Select all that apply.
         </li>
         <li> **For Condition-focused** studies, consider the determinants or mechanisms of the human opioid or pain condition you are investigating. For example:
             <ul> 
@@ -83,14 +87,16 @@
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote> 
         These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page. Platform users can use this field to filter studies based on their treatment mode. For example: 
-
+        <br>
+        <br>
         <ul>
             <li>Mental Health: A patient with OUD may seek a mental health intervention/treatment, if they are reluctant to use medication or are in a rehabilitation facility that does not allow medication.</li>
             <li>Biology and Health: A pain clinician, who has historically treated patients with opioids and seen some resulting addictions, may seek information on non-opioid-based pain treatments.</li>
             <li>Social Determinants: A public health official, in an area with high opioid overdose rates, despite high naloxone availability, might suspect social determinants (e.g. attitudes/stigma, lack of communication/education, lack of transportation to distribution centers, etc.) play a role in low uptake/effective use of naloxone.</li>
         </ul>
+        <br>
         Filtering will allow Platform users to quickly find broad, relevant studies, study data, or study-generated knowledge.       
     </blockquote></details>
     </blockquote></details>
 
-* Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section (and [save](save-cedar-form.md) your form!)        
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section (and [save](save-cedar-form.md) your form!)        

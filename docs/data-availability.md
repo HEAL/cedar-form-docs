@@ -22,9 +22,11 @@
         <mark>This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?”</mark> 
         Answers include:
         None: If you do not plan to make any study data available in a HEAL approved repository, select “None.” While most HEAL studies are obligated to share data, select HEAL studies, such as SBIR grants, are not. 
-
+        <br>
+        <br>
         Some: If you plan to make some, but not all, study data available, select “Some.” For example, you may plan to share data needed to reproduce publications, processed data files, or extensively de-identified data, but exclude certain datasets or sources (such as administrative data, when your data sharing agreement does not allow sharing). 
-
+        <br>
+        <br>
         All: If you plan to make study data available to the greatest extent possible <mark>(e.g. sharing nearly raw clinical trial data in a data repository, subject to very strong access controls, including some data that may be very useful for analysis but pose a risk of re-identification, such as highly granular geographic information, detailed diagnostic and care provision, utilization patterns, and/or clinician notes)</mark>, select “All.”
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote> 
@@ -38,9 +40,11 @@
         <mark>This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?” AND you answered “Some” or “All” to “Will the study make data available?”</mark>
         Answers include
         None: If all your repository-hosted study data will be open access or minimally restricted (i.e. available after signing a minimal DUA that does not require any manual intervention or approval). 
-
+        <br>
+        <br>
         Some: If some of your repository-hosted study data will be open access or minimally restricted, while other data will be available only after a request and approval process that does require substantial manual intervention (e.g. submission of a project proposal and IRB approval by the requestor; review by a Data Access Committee on the repository end; etc.). For example, a clinical trial may choose this option when sharing 1) an extensively de-identified dataset that is open access/minimal access controls, AND 2) a less de-identified dataset, shared under strict access controls, that includes features to add value for analysis questions but also presents substantial risk for re-identification. 
-
+        <br>
+        <br>
         All: If all your repository-hosted study data will be available only following a request and approval process requiring substantial manual intervention (e.g. submission of a project proposal and IRB approval by the requestor; review by a Data Access Committee on the repository end; etc.). For example, a clinical trial may choose this option when ONLY sharing a less de-identified dataset with features to add value for analysis questions, while presenting substantial risk for re-identification, shared under strict access controls. These studies WILL NOT share a extensively de-identified version of the data as open access/minimal access controls.
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote>
@@ -53,13 +57,17 @@
     <details><summary>**How to answer**</summary><blockquote> 
         <mark>This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?”</mark> 
         Answers include:
-
+        <br>
+        <br>
         Not started: If your study, including studies with multiple parts/aims, has not started collecting ANY data.
-      
+        <br>
+        <br>
         Started: If your study, including studies with multiple parts/aims, started collecting ANY data. 
-
+        <br>
+        <br>
         Finished: If your study, including studies with multiple parts/aims, finished collecting ALL data. 
-
+        <br>
+        <br>
  This field should be updated as a HEAL study moves through its life-cycle - see [information on how to update.](update-cedar-form-metadata.md)
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote> 
@@ -70,12 +78,17 @@
     <details><summary>**How to answer**</summary><blockquote> 
         <mark>This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?” AND you answered “Some” or “All” to “Will the study make data available?”</mark> 
         Answers include:
-
+        <br>
+        <br>
         Not started: if your study, including studies with multiple parts/aims, has not started making ANY study data available in a repository for long-term data sharing. 
-
+        <br>
+        <br>
         Started: if your study, including studies with multiple parts/aims, started making ANY study data available in a repository for long-term data sharing, but is not finished (i.e. will share more data later). 
-
+        <br>
+        <br>
         Finished: if your study, including studies with multiple parts/aims, finished making ALL study data available in a repository for long-term data sharing (i.e. no further data to share).
+        <br>
+        <br>
 This field should be updated as a HEAL study moves through its life-cycle - see [information on how to update.](update-cedar-form-metadata.md)
     </blockquote></details>
     <details><summary>**How this field will be used**</summary><blockquote> 
@@ -84,10 +97,13 @@ This field should be updated as a HEAL study moves through its life-cycle - see 
     </blockquote></details>
     <details><summary>**Date when first/last data will be collected/produced or released**</summary><blockquote>
     <details><summary>**Entries include:**</summary><blockquote> 
-* **Date when first data will be collected/produced**: First study participant enrolled in a clinical trial.
-* **Date when last data will be collected/produced**: Last measurement on last study participant enrolled in a clinical trial.
-* **Date when first data will be released**: First dataset with accompanying metadata deposited in data repository.
-* **Date when last data will be released**: Final dataset with accompanying metadata deposited in data repository; no more data deposits anticipated.
+        **Date when first data will be collected/produced**: First study participant enrolled in a clinical trial.
+        <br>
+        **Date when last data will be collected/produced**: Last measurement on last study participant enrolled in a clinical trial.
+        <br>
+        **Date when first data will be released**: First dataset with accompanying metadata deposited in data repository.
+        <br>
+        **Date when last data will be released**: Final dataset with accompanying metadata deposited in data repository; no more data deposits anticipated.
     </blockquote></details>   
     <details><summary>**How to answer**</summary><blockquote> 
         ALL fields ONLY APPLY if you answered “Yes” to “Will the study collect or produce data?” 
