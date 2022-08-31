@@ -1,16 +1,21 @@
 # Minimal Info
 
-* [Expand](expand-or-collapse-cedar-form-section.md) the Minimal Info form section 
-* The Minimal Info form section has four fields: 
-    * Study Title or Name 
-    * Study Description or Abstract 
-    * Alternative Study Title or Name 
-    * Alternative Study Description or Abstract
-* The first two fields (i.e. Study Title or Name, and Study Description or Abstract) should have been auto-populated by the Platform from metadata pulled in about your study from NIH RePORTER. 
-* Please check that your study title and description are correct. If both are correct, please proceed with filling out the remainder of the form. 
-* **If one or both are incorrect, please email heal-support@datacommons.io to let us know right away, and do NOT proceed with filling out the remainder of the form until you receive guidance to do so. Please do NOT edit the pre-populated study title or description fields yourself – these edits will NOT be saved.** 
-* You are not required to provide an alternative study title and/or description but you may do so. 
-* In most cases, the original study title and description will be the values that appear for your study entry on the Platform regardless of whether you provide these alternative values. However, reasons to provide these alternative values include: 
-    * the text of these values will be searchable via the free-text search and discovery tools on the Platform, so including key terms and/or alternative study name structures (including study name acronyms) in these alternative values may make your study easier to find for Platform users using the free-text search and discovery tools 
-    * the text of these values may be exposed on the study page on the Platform in the future, allowing Platform users who find your study entry to read these alternative text values and use them to better determine whether your study is of interest to them
-* Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Minimal Info section (and [save](save-cedar-form.md) your form!)
+* [Expand](expand-or-collapse-cedar-form-section.md) the Minimal Info section. This section has four fields:
+  * Study Title or Name 
+  * Study Description or Abstract 
+  * Alternative Study Title or Name 
+  * Alternative Study Description or Abstract
+
+## Study Title or Name and Study Description or Abstract
+
+The “Study Title or Name” and “Study Description or Abstract” auto-populate from NIH RePORTER. Ensure your study title and description are correct. 
+ * If one or both are incorrect, contact heal-support@datacommons.io immediately, and do NOT fill out the form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
+
+## Alternative Study Title or Name and Alternative Study Description or Abstract
+
+You are not required to provide an alternative study title and/or description, as the original study title and description will appear on the Platform, regardless of these alternative values. However, there are good reasons to provide them:
+
+ * The text is searchable via the Platform’s free-text search and discovery tools, so key terms and/or alternative study name structures (including study name acronyms) may make your study more findable.
+ * The text may be visible on the Platform’s study page in the future, allowing users to read it and better determine whether your study is of interest.
+
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Minimal Info section and [save](save-cedar-form.md) your form. 
