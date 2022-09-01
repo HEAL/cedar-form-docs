@@ -1,7 +1,7 @@
 # Data Availability
 
 * Many fields in the Data Availability section should be updated throughout a HEAL study’s life-cycle (e.g. a field called “data collection status” will change from “not started” to “started” to “finished”).
-* The Platform will provide a portal for investigators to update these metadata fields. For updates before this portal is available, contact the Platform Help Desk at heal-support@datacommons.io.
+* To update your study’s metadata as your study progresses, please contact the Platform Help Desk at heal-support@datacommons.io..
 
 * Expand the Data Availability section. This section has 10 fields; (<mark>click below to expand guidance for each field</mark>):
 
