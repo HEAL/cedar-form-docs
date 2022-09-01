@@ -95,7 +95,7 @@ Expand the Data section. This section has seven fields; click below to expand gu
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. They will also be easily accessible to viewers, as text, on the study page. **Examples include:**
 
     >> * **Population**: An educator seeking evidence on school-based interventions to prevent first opioid use in high school students to support a proposal (for their principal) requesting implementation funds and resources wants studies that are statistically sound and correct for the high intra-class correlation, generally found within schools and even classrooms, by analyzing the data grouped at one/both levels.
-    * Individual: A researcher seeks individual data to include in a secondary analysis, and wants to know if it may be available from a particular study with a clear structure (e.g. correlations within subsets of the individuals) they will need to account for in their own analysis.
+    * **Individual:** A researcher seeks individual data to include in a secondary analysis, and wants to know if it may be available from a particular study with a clear structure (e.g. correlations within subsets of the individuals) they will need to account for in their own analysis.
 
 ??? note "Human Subject Data - Expected Number of the Unit of Analysis"
 

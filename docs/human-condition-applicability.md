@@ -19,10 +19,10 @@ Expand the Human Condition Applicability section. This section has seven fields;
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:**
 
-    >> * **Opioid Exposure:** A pre-K/K school teacher knows their surrounding community has high rates of OUD and wonders if student behavioral issues can be attributed to in utero opioid exposure. They also want to recognize exposure impacts and support intervention for students and their parents.
-    * **Opioid use and opioid use disorder, relapse; Opioid use and opioid use disorder, chronic:** A family member or case manager of a person at high risk of relapse and taking medication for chronic OUD, wants to identify appropriate OUD treatment(s), and learn about geographic and other factors impacting treatment access.
-    * **Opioid use and opioid use disorder, relapse:** A clinician treating OUD notices a high rate of relapse in patients. They seek research on relapse risk factors, or preventive and therapeutic interventions to target OUD relapse.
-    * **Pain, acute; Pain, resulting from surgery:** A patient scheduled for surgery, whose doctor recommends opioids for acute post-surgical pain, does not want to take opioids due to addiction risks or triggering a relapse (if they have a previous OUD) and seeks research on non-drug or non-opioid treatments to address acute post-surgical pain.
+    >> * ***Opioid Exposure:*** A pre-K/K school teacher knows their surrounding community has high rates of OUD and wonders if student behavioral issues can be attributed to in utero opioid exposure. They also want to recognize exposure impacts and support intervention for students and their parents.
+    * ***Opioid use and opioid use disorder, relapse; Opioid use and opioid use disorder, chronic:*** A family member or case manager of a person at high risk of relapse and taking medication for chronic OUD, wants to identify appropriate OUD treatment(s), and learn about geographic and other factors impacting treatment access.
+    * ***Opioid use and opioid use disorder, relapse:*** A clinician treating OUD notices a high rate of relapse in patients. They seek research on relapse risk factors, or preventive and therapeutic interventions to target OUD relapse.
+    * ***Pain, acute; Pain, resulting from surgery:*** A patient scheduled for surgery, whose doctor recommends opioids for acute post-surgical pain, does not want to take opioids due to addiction risks or triggering a relapse (if they have a previous OUD) and seeks research on non-drug or non-opioid treatments to address acute post-surgical pain.
 
 ??? note "Opioid use and/or Pain condition - Investigation Stage or Type"
     **How to answer**
@@ -39,19 +39,21 @@ Expand the Human Condition Applicability section. This section has seven fields;
     >> * A study looking for biomarkers of those at higher risk of opioid dependence following short term use for acute post surgical pain
     * A study looking at differential risk, by strata, of sociodemographic factors for pain-related condition development, in circumstances like end stage renal disease or fibromyalgia 
     
-    > * **Mechanism of condition:** * A natural experiment to investigate biological or social/environmental factors that explain differential risk for pain related condition like end stage renal disease or fibromyalgia, across the strata of sociodemographic factors
+    > **Mechanism of condition:** 
 
-    * **Impact of condition:**
+    >> * A natural experiment to investigate biological or social/environmental factors that explain differential risk for pain related condition like end stage renal disease or fibromyalgia, across the strata of sociodemographic factors
+
+    > **Impact of condition:**
 
     >> * A study investigating OUD’s impact on the likelihood of completing a degree, getting a job, starting/maintaining a family or romantic relationship, or securing/maintaining housing
     >> * A study investigating the impact of a high community OUD rate on community crime levels, economic stability, and social cohesion 
 
-    * **Public attitudes towards or perception of a condition:**
+    > **Public attitudes towards or perception of a condition:**
     
     >> * A national survey asking for attitudes about 1) employing those with OUD, 2) befriending them, 3) having them marry into the family, 4) allowing them access to public funding for long term medical and social support treatment
     >> * A study testing efficacy of a community-based communications and education campaign to increase previous OUD sufferers’ employability
 
-    * **Treatment of a condition:**
+    > **Treatment of a condition:**
     
     >> * A study investigating whether providing housing and job training support, to people leaving jail on an opioid use or possession charge, prevents OUD relapse or further involvement in the criminal justice system
     >> * A phase 3 clinical trial investigating efficacy of a novel non-opioid drug to treat chronic pain * A study investigating whether a novel implanted device, providing long-term and slow release of an established MAT drug for OUD, can prevent relapse
@@ -62,20 +64,20 @@ Expand the Human Condition Applicability section. This section has seven fields;
     >> * A school teacher who knows the local community has high OUD rates and:
 
     >>>
-    * **Impact of condition:** wonders if student behavioral issues may be attributed in utero exposure to opioids and
-    * **Treatment of condition:** how to recognize exposure impacts, to provide support and intervention for students and parents, while
-    * **Public attitudes towards or perception of a condition:** learning about how/how much opioid use stigma should weigh into an offer to help, as it may expose them to further stigma-related harm
+    * ***Impact of condition:*** wonders if student behavioral issues may be attributed in utero exposure to opioids and
+    * ***Treatment of condition:*** how to recognize exposure impacts, to provide support and intervention for students and parents, while
+    * ***Public attitudes towards or perception of a condition:*** learning about how/how much opioid use stigma should weigh into an offer to help, as it may expose them to further stigma-related harm
 
     >> * A clinician treating OUD patients notices a high rate of patient relapse, who
 
     >>>
-    * **Risk for condition; Differential risk for condition:** seeks research on relapse risk factors or
-    * **Treatment of condition:** on preventive or therapeutic interventions that target OUD relapse
+    * ***Risk for condition; Differential risk for condition:*** seeks research on relapse risk factors or
+    * ***Treatment of condition:*** on preventive or therapeutic interventions that target OUD relapse
 
     >> * A patient scheduled for surgery, whose doctor recommended opioids for acute post-surgical pain but
 
-    >>> * **Risk for condition; Differential risk for condition:** does not want to take opioids because they worry about opioid addiction, or (with a previous OUD) triggering a relapse, and wants to find research on clear risk factors for these outcomes, and/or
-    * **Incidence of condition; Differential risk for Condition:** rates for these negative outcomes is in the general population or populations with known risk factors
+    >>> * ***Risk for condition; Differential risk for condition:*** does not want to take opioids because they worry about opioid addiction, or (with a previous OUD) triggering a relapse, and wants to find research on clear risk factors for these outcomes, and/or
+    * ***Incidence of condition; Differential risk for Condition:*** rates for these negative outcomes is in the general population or populations with known risk factors
 
 ??? note "Pain - Causal condition (Alias: Causal Condition)"
     **How to answer**
@@ -103,7 +105,7 @@ Expand the Human Condition Applicability section. This section has seven fields;
     >> * A study testing efficacy of a fibromyalgia disease-modifying treatment agent/mechanism, to induce or maintain remission, measured by several disease activity/severity markers, including pain
     * A study investigating the impact of sleep deficit on the risk for various work- related injuries associated with development of chronic pain
     
-    > * **Pain:**
+    > **Pain:**
     
     >> * A study testing efficacy of a novel, non-opioid analgesic drug to treat fibromyalgia pain flares, or prevent fibromyalgia-associated chronic pain development when used early in the disease course
     * A study investigating the impact of sleep deficit on the risk of chronic pain development following a work related injury associated with chronic pain
