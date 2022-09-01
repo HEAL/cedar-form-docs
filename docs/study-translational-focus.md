@@ -12,8 +12,7 @@
 
 [Expand](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section. This section has two fields; click below to expand guidance for each field.
 
-*    
-    <details><summary>**Study Translational Focus**</summary><blockquote>
+* <details><summary>**Study Translational Focus**</summary><blockquote>
     
     <details><summary>**How to answer**</summary><blockquote>
         This field allows selection of a single answer from a limited set of choices, including: “Condition” for Condition-focused studies, and “Treatment” for Treatment-focused studies (see above for definitions). 
