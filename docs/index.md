@@ -1,20 +1,20 @@
 # I found my CEDAR form. Now What?
 
-## Providing team members access to a CEDAR form:
+## Providing team members access to a CEDAR form
 
 * One individual registers a study on the Platform, but multiple team members can collaborate on a form. 
 * Each team member needs a CEDAR account.
 * The registering member shares the study’s CEDAR form with other team members.
 
 
-## Expanding and collapsing form sections:
+## Expanding and collapsing form sections
 
 * CEDAR forms open in “expanded” format, with all metadata fields visible.
 * Section headings are in green text, and metadata fields are in black.
 * Consider “collapsing” each section and expanding them individually, as needed.
 
 
-## Overview:
+## Overview
 
 * The CEDAR form has 9 sections: 
     * [Minimal Info](minimal-info.md) 
@@ -27,7 +27,7 @@
     * Human Subject Applicability
     * [Data](data.md) 
 
-## Best practices:
+## Best practices
 
 * Save often to ensure you do not lose any entered metadata.
     * To save, click “Save” on the bottom right of the form. Note that saving will not close the page or redirect you.
