@@ -26,8 +26,8 @@
 
     > Basic science or non-human subjects study examples:
 
-    >> * **Condition-focused:** a biochemical study investigating the molecular mechanisms of cell signaling in pain/nociception
-    * **Treatment-focused:** a small molecule screen to discover chemical drugs that activate or deactivate a molecular target involved in opioid-addictive or overdose pathways.
+    >> * *Condition-focused:* a biochemical study investigating the molecular mechanisms of cell signaling in pain/nociception
+    * *Treatment-focused:* a small molecule screen to discover chemical drugs that activate or deactivate a molecular target involved in opioid-addictive or overdose pathways.
     
     **How this field will be used**
 
@@ -50,26 +50,26 @@
 
     For **Condition-focused** studies, consider the determinants or mechanisms of the human opioid or pain condition you are investigating. For example:
 
-    >> * Biology and Health: A study focused on molecular or biophysical mechanisms of bodily injury and pain perception
-    * Mental Health: An observational study measuring the incidence and timing of onset of rumination and other anxiety or depressive symptoms/states in patients that do or do not transition from acute to chronic pain
-    * Social Determinants: A study measuring items such as income and education level, family support, access to healthcare and food, etc.
-    * Public Attitudes or Stigma: A study measuring items such as individual perceptions of stigma from friends, family, and employers around their pain experience
-    * Public Attitudes or Stigma AND Social Determinants: A study randomly surveying individuals’ attitudes towards those with OUD (public attitudes and stigma are a subset of all social determinants).
+    >> * *Biology and Health*: A study focused on molecular or biophysical mechanisms of bodily injury and pain perception
+    * *Mental Health*: An observational study measuring the incidence and timing of onset of rumination and other anxiety or depressive symptoms/states in patients that do or do not transition from acute to chronic pain
+    * *Social Determinants*: A study measuring items such as income and education level, family support, access to healthcare and food, etc.
+    * *Public Attitudes or Stigma*: A study measuring items such as individual perceptions of stigma from friends, family, and employers around their pain experience
+    * *Public Attitudes or Stigma AND Social Determinants*: A study randomly surveying individuals’ attitudes towards those with OUD (public attitudes and stigma are a subset of all social determinants).
 
     For **Treatment-focused** studies, think about the mechanism of the treatment, intervention, or solution you are investigating. For example:
     
-    > * Biology and Health: A small molecule screen study looking for drugs that inhibit a novel protein target in the opioid reward pathway as a possible drug candidate to treat OUD, or a study investigating efficacy of a drug or surgical procedure to treat chronic back pain
-    * Mental Health: A study investigating relative efficacy of group therapy versus one-on-one therapy to prevent opioid use relapse
-    * Biology and Health AND Social Determinants: A study investigating efficacy of providing individuals leaving jail, with a history of opioid use, either 1) MOUD alone or 2) MOUD plus supports such as housing, food, and education/employment assistance
-    * Public Attitudes or Stigma: A study investigating efficacy of a community-level communications campaign, discussing OUD as a disease, to change public attitudes and reduce stigma towards sufferers
+    > * *Biology and Health*: A small molecule screen study looking for drugs that inhibit a novel protein target in the opioid reward pathway as a possible drug candidate to treat OUD, or a study investigating efficacy of a drug or surgical procedure to treat chronic back pain
+    * *Mental Health*: A study investigating relative efficacy of group therapy versus one-on-one therapy to prevent opioid use relapse
+    * *Biology and Health AND Social Determinants*: A study investigating efficacy of providing individuals leaving jail, with a history of opioid use, either 1) MOUD alone or 2) MOUD plus supports such as housing, food, and education/employment assistance
+    * *Public Attitudes or Stigma*: A study investigating efficacy of a community-level communications campaign, discussing OUD as a disease, to change public attitudes and reduce stigma towards sufferers
 
     **How this field will be used**
 
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page. Platform users can use this field to filter studies based on their treatment mode. For example:
 
-    >> * Mental Health: A patient with OUD may seek a mental health intervention/treatment, if they are reluctant to use medication or are in a rehabilitation facility that does not allow medication.</li>
-    * Biology and Health: A pain clinician, who has historically treated patients with opioids and seen some resulting addictions, may seek information on non-opioid-based pain treatments.</li>
-    * Social Determinants: A public health official, in an area with high opioid overdose rates, despite high naloxone availability, might suspect social determinants (e.g. attitudes/stigma, lack of communication/education, lack of transportation to distribution centers, etc.) play a role in low uptake/effective use of naloxone.</li>
+    >> * *Mental Health*: A patient with OUD may seek a mental health intervention/treatment, if they are reluctant to use medication or are in a rehabilitation facility that does not allow medication.</li>
+    * *Biology and Health*: A pain clinician, who has historically treated patients with opioids and seen some resulting addictions, may seek information on non-opioid-based pain treatments.</li>
+    * *Social Determinants*: A public health official, in an area with high opioid overdose rates, despite high naloxone availability, might suspect social determinants (e.g. attitudes/stigma, lack of communication/education, lack of transportation to distribution centers, etc.) play a role in low uptake/effective use of naloxone.</li>
 
     > Filtering will allow Platform users to quickly find broad, relevant studies, study data, or study-generated knowledge.
 

@@ -1,10 +1,10 @@
 # Minimal Info
 
 [Expand](expand-or-collapse-cedar-form-section.md) the Minimal Info section. This section has four fields:
-  * Study Title or Name 
-  * Study Description or Abstract 
-  * Alternative Study Title or Name 
-  * Alternative Study Description or Abstract
+>>  1. Study Title or Name 
+>>  2. Study Description or Abstract 
+>>  3. Alternative Study Title or Name 
+>>  4. Alternative Study Description or Abstract
 
 ## Study Title or Name and Study Description or Abstract
 

@@ -1,7 +1,7 @@
 # Data Availability
 
 * Many fields in the Data Availability section should be updated throughout a HEAL study’s life-cycle (e.g. a field called “data collection status” will change from “not started” to “started” to “finished”).
-* To update your study’s metadata as your study progresses, please contact the Platform Help Desk at heal-support@datacommons.io..
+* To update your study’s metadata as your study progresses, please contact the Platform Help Desk at heal-support@datacommons.io.
 
 * Expand the Data Availability section. This section has 10 fields; (<mark>click below to expand guidance for each field</mark>):
 
@@ -35,11 +35,11 @@
 
     > Answers include
 
-    >> None: If all your repository-hosted study data will be open access or minimally restricted (i.e. available after signing a minimal DUA that does not require any manual intervention or approval).
+    >> *None*: If all your repository-hosted study data will be open access or minimally restricted (i.e. available after signing a minimal DUA that does not require any manual intervention or approval).
     
-    >> Some: If some of your repository-hosted study data will be open access or minimally restricted, while other data will be available only after a request and approval process that does require substantial manual intervention (e.g. submission of a project proposal and IRB approval by the requestor; review by a Data Access Committee on the repository end; etc.). For example, a clinical trial may choose this option when sharing 1) an extensively de-identified dataset that is open access/minimal access controls, AND 2) a less de-identified dataset, shared under strict access controls, that includes features to add value for analysis questions but also presents substantial risk for re-identification.
+    >> *Some*: If some of your repository-hosted study data will be open access or minimally restricted, while other data will be available only after a request and approval process that does require substantial manual intervention (e.g. submission of a project proposal and IRB approval by the requestor; review by a Data Access Committee on the repository end; etc.). For example, a clinical trial may choose this option when sharing 1) an extensively de-identified dataset that is open access/minimal access controls, AND 2) a less de-identified dataset, shared under strict access controls, that includes features to add value for analysis questions but also presents substantial risk for re-identification.
     
-    >> All: If all your repository-hosted study data will be available only following a request and approval process requiring substantial manual intervention (e.g. submission of a project proposal and IRB approval by the requestor; review by a Data Access Committee on the repository end; etc.). For example, a clinical trial may choose this option when ONLY sharing a less de-identified dataset with features to add value for analysis questions, while presenting substantial risk for re-identification, shared under strict access controls. These studies WILL NOT share a extensively de-identified version of the data as open access/minimal access controls.
+    >> *All*: If all your repository-hosted study data will be available only following a request and approval process requiring substantial manual intervention (e.g. submission of a project proposal and IRB approval by the requestor; review by a Data Access Committee on the repository end; etc.). For example, a clinical trial may choose this option when ONLY sharing a less de-identified dataset with features to add value for analysis questions, while presenting substantial risk for re-identification, shared under strict access controls. These studies WILL NOT share a extensively de-identified version of the data as open access/minimal access controls.
     
     **How this field will be used**
     > This field will allow users looking for easy data access to filter for studies sharing some, or all, of their data as open access/minimal access controls.
@@ -89,7 +89,7 @@
 
     > Provide the existing or anticipated date in MM/DD/YYYY format. After you enter each field, click the calendar icon to the right to open a calendar interface and select your date. Dates should be updated if they change - see [information on how to update](update-cedar-form-metadata.md).
 
-    **How these fields will be used
+    **How these fields will be used**
     > Platform users can view the start date on each study’s details page, allowing interested users to understand study timing, and when to expect data or publications/findings.
 
 ??? note "Will the study produce shareable products other than data? Yes/No"
