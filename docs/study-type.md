@@ -29,7 +29,7 @@
     > This field allows a single answer selection of “Primary Research” or “Secondary Research.”
 
     >> * Primary Research: Your study will collect primary data (i.e. measurements to generate data to address the study research question) OR conduct an active experiment.
-    * SecondaryResearch: Your study will NOT collect primary data AND your study will NOT conduct an active experiment. If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
+    * Secondary Research: Your study will NOT collect primary data AND your study will NOT conduct an active experiment. If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
     
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow Platform users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:**
