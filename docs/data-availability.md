@@ -16,9 +16,13 @@
 ??? note "Will the study make data available? None/Some/All"
 
     **How to answer**
-    > <mark>This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?”</mark> Answers include: None: If you do not plan to make any study data available in a HEAL approved repository, select “None.” While most HEAL studies are obligated to share data, select HEAL studies, such as SBIR grants, are not.
-    > Some: If you plan to make some, but not all, study data available, select “Some.” For example, you may plan to share data needed to reproduce publications, processed data files, or extensively de-identified data, but exclude certain datasets or sources (such as administrative data, when your data sharing agreement does not allow sharing).
-    > All: If you plan to make study data available to the greatest extent possible <mark>(e.g. sharing nearly raw clinical trial data in a data repository, subject to very strong access controls, including some data that may be very useful for analysis but pose a risk of re-identification, such as highly granular geographic information, detailed diagnostic and care provision, utilization patterns, and/or clinician notes)</mark>, select “All.”
+    > This field ONLY APPLIES if you answered “Yes” to “Will the study collect or produce data?”
+    <br>
+    Answers include: 
+    <br>
+    *None*: If you do not plan to make any study data available in a HEAL approved repository, select “None.” While most HEAL studies are obligated to share data, select HEAL studies, such as SBIR grants, are not.
+    > *Some*: If you plan to make some, but not all, study data available, select “Some.” For example, you may plan to share data needed to reproduce publications, processed data files, or extensively de-identified data, but exclude certain datasets or sources (such as administrative data, when your data sharing agreement does not allow sharing).
+    > *All*: If you plan to make study data available to the greatest extent possible <mark>(e.g. sharing nearly raw clinical trial data in a data repository, subject to very strong access controls, including some data that may be very useful for analysis but pose a risk of re-identification, such as highly granular geographic information, detailed diagnostic and care provision, utilization patterns, and/or clinician notes)</mark>, select “All.”
 
     **How this field will be used**
     >  This field will allow users to filter between studies that will share data, and those that will not. Some users, especially those interested in re-identification risks from dataset features (e.g. high geographic granularity), may want to view studies that plan to share “All” data, not just extensively de-identified data.
