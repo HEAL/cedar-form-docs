@@ -46,16 +46,16 @@
     **Help text is available. Once you enter a field, mouse over the “?” icon in the upper right to view help text for that field.**
 
 !!! note
-    **The Platform will provide access to a portal, so investigators can update metadata fields as their study moves through its life-cycle. To update metadata fields before this portal is available, contact the Platform Help Desk at heal-support@datacommons.io.**
+    **You can access your CEDAR form as many times as you want and updates any fields you want, until the form is as complete as it can be at the time of Platform registration.**
+
+!!! note
+    **As your study advances to a point at which additional metadata becomes available – such as a new publication or release of study data – we ask that you contact the Platform Help Desk at heal-support@datacommons.io to navigate updating your original study-level metadata.**
 
 !!! note
     **ALL entries into this form may be used for HEAL investigator outreach, to provide data sharing support and extend data collaboration invitations, AND by the NIH HEAL office to track progress.**
    
 !!! note
     **MOUD defines medications for opioid use disorder, and OUD defines opioid use disorder.**
-
-!!! note
-    **The Platform will provide a portal for investigators to update metadata fields. For updates before the portal is available, contact the Platform Help Desk at heal-support@datacommons.io.**
 
 
  
