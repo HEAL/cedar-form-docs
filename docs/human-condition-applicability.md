@@ -56,10 +56,26 @@ Expand the Human Condition Applicability section. This section has seven fields;
     >> * A study investigating whether providing housing and job training support, to people leaving jail on an opioid use or possession charge, prevents OUD relapse or further involvement in the criminal justice system
     >> * A phase 3 clinical trial investigating efficacy of a novel non-opioid drug to treat chronic pain * A study investigating whether a novel implanted device, providing long-term and slow release of an established MAT drug for OUD, can prevent relapse
 
-    **How this field will be used
+    **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. **Examples include:**
 
-    >> * A school teacher who knows the local community has high OUD rates and: * **Impact of condition:** wonders if student behavioral issues may be attributed in utero exposure to opioids and * **Treatment of condition:** how to recognize exposure impacts, to provide support and intervention for students and parents, while * **Public attitudes towards or perception of a condition:** learning about how/how much opioid use stigma should weigh into an offer to help, as it may expose them to further stigma-related harm * A clinician treating OUD patients notices a high rate of patient relapse, who * **Risk for condition; Differential risk for condition:** seeks research on relapse risk factors or * **Treatment of condition:** on preventive or therapeutic interventions that target OUD relapse * A patient scheduled for surgery, whose doctor recommended opioids for acute post-surgical pain but * **Risk for condition;** Differential risk for condition: does not want to take opioids because they worry about opioid addiction, or (with a previous OUD) triggering a relapse, and wants to find research on clear risk factors for these outcomes, and/or * **Incidence of condition;** Differential risk for Condition: rates for these negative outcomes is in the general population or populations with known risk factors
+    >> * A school teacher who knows the local community has high OUD rates and:
+
+    >>>
+    * **Impact of condition:** wonders if student behavioral issues may be attributed in utero exposure to opioids and
+    * **Treatment of condition:** how to recognize exposure impacts, to provide support and intervention for students and parents, while
+    * **Public attitudes towards or perception of a condition:** learning about how/how much opioid use stigma should weigh into an offer to help, as it may expose them to further stigma-related harm
+
+    >> * A clinician treating OUD patients notices a high rate of patient relapse, who
+
+    >>>
+    * **Risk for condition; Differential risk for condition:** seeks research on relapse risk factors or
+    * **Treatment of condition:** on preventive or therapeutic interventions that target OUD relapse
+
+    >> * A patient scheduled for surgery, whose doctor recommended opioids for acute post-surgical pain but
+
+    >>> * **Risk for condition; Differential risk for condition:** does not want to take opioids because they worry about opioid addiction, or (with a previous OUD) triggering a relapse, and wants to find research on clear risk factors for these outcomes, and/or
+    * **Incidence of condition; Differential risk for Condition:** rates for these negative outcomes is in the general population or populations with known risk factors
 
 ??? note "Pain - Causal condition (Alias: Causal Condition)"
     **How to answer**
@@ -88,12 +104,21 @@ Expand the Human Condition Applicability section. This section has seven fields;
     * A study investigating the impact of sleep deficit on the risk for various work- related injuries associated with development of chronic pain
     
     > * **Pain:**
+    
     >> * A study testing efficacy of a novel, non-opioid analgesic drug to treat fibromyalgia pain flares, or prevent fibromyalgia-associated chronic pain development when used early in the disease course
     * A study investigating the impact of sleep deficit on the risk of chronic pain development following a work related injury associated with chronic pain
 
 
     **How this field will be used**
-    These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:** * A clinician who treats fibromyalgia patients seeks research/data for better ways to: * **Pain**: address fibromyalgia-associated pain AND * **Causal condition**: address/treat the underlying disease to make fibromyalgia- associated pain development less likely or severe. * **Pain**: A patient with end stage renal disease, and associated pain, seeks research on treatment development for ESRD pain patients.
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:**
+
+    >> * A clinician who treats fibromyalgia patients seeks research/data for better ways to:
+
+    >>>
+    * **Pain**: address fibromyalgia-associated pain AND
+    * **Causal condition**: address/treat the underlying disease to make fibromyalgia- associated pain development less likely or severe.
+
+    >> * **Pain**: A patient with end stage renal disease, and associated pain, seeks research on treatment development for ESRD pain patients.
 
 ??? note "Study treatment or target condition - Detail (Alias: Target Condition)"
     **How to answer**
