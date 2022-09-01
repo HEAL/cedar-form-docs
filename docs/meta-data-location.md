@@ -1,16 +1,18 @@
 # (Meta)data Location
 
-* [Expand](expand-or-collapse-cedar-form-section.md) the (Meta)data Location section. This section has two fields: 
+[Expand](expand-or-collapse-cedar-form-section.md) the (Meta)data Location section. This section has two fields: 
+
   * NIH Application ID
   * Other Study-Associated Websites
 
 ## **NIH Application ID** 
 The NIH Application ID auto-populates from NIH RePORTER.
-  * For errors in this field, contact heal-support@datacommons.io immediately, and do NOT fill out the form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
+
+  * **For errors in this field, contact heal-support@datacommons.io immediately, and do NOT fill out the form until instructed to. Do NOT edit pre-populated fields. They will NOT save.**
 
 ## **Other Study-Associated Websites**
 The Other Study-Associated Websites field allows you to input an unlimited number of URLs. Provide URLs for any/all websites with information about your study.
-Values in this field are validated as URLs and will not be accepted if improperly formatted: http(s)://youraddress.yourdomain.
+Values in this field are **validated as URLs** and will not be accepted if improperly formatted: http(s)://youraddress.yourdomain.
 
 ## Single Entry
 For a single entry, click the field and enter the value. Then, click “OK” to submit.
