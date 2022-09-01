@@ -12,11 +12,6 @@
 Expand the Data section. This section has seven fields; click below to expand guidance for each field.
 
 
-??? note "test"
-
-    Occaecat veniam pariatur fugiat fugiat cillum reprehenderit deserunt cillum sunt enim culpa cupidatat.
-
-
 <details><summary>**[Is data quantitative or qualitative?](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=data_orientation)**</summary><blockquote>
 
 <details><summary>**How to answer**</summary><blockquote>
