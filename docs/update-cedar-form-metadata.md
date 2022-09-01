@@ -1,5 +1,8 @@
 # Updating CEDAR Form Metadata
 
 !!! note
-**The Platform will provide access to a portal, allowing investigators to update metadata fields as a HEAL study moves through its lifecycle. If you need to update fields before this portal is available, contact heal-support@datacommons.io.** 
+    **You can access your CEDAR form as many times as you want and updates any fields you want, until the form is as complete as it can be at the time of Platform registration.**
+
+!!! note
+    **As your study advances to a point at which additional metadata becomes available – such as a new publication or release of study data – we ask that you contact the Platform Help Desk at heal-support@datacommons.io to navigate updating your original study-level metadata.**
 
