@@ -44,16 +44,17 @@
     >> * Observational Research: If your study will NOT conduct an active experiment (e.g. actively or passively collecting measurements without any intervention, or in the context of a naturally occurring intervention - a “natural experiment”), select “Observational Research."
     * Experimental Research: If your study will conduct an active experiment, select “Experimental Research." If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
     
-    **How this field will be used**
-    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly locate broad, relevant studies, study data, or study-generated knowledge. **For example:**
+    > If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support. 
 
-    >> Add example here.
+    **How this field will be used**
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly locate broad, relevant studies, study data, or study-generated knowledge.
 
 ??? note "Study Subject Type"
     **How to answer**
     > This field allows multiple answer selections from a response set, including:
 
-    >> * Human
+    >>
+    * Human
     * Animal
     * Human cell/tissue/tissue model
     * Animal cell/tissue/tissue model
@@ -67,6 +68,8 @@
     * Molecule studies treat or observe molecules (e.g. enzymology, chemical/protein binding or engineering, protein crystallization, etc.).
     * For computational studies, consider your subject of interest (e.g. modeling humans, human interaction, molecules, or molecular interactions). If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
     
+    > If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support. 
+
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search'' on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. For **example:**
 
@@ -79,9 +82,9 @@
     > This field allows multiple selections. Select all that apply. If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
     
     **How this field will be used**
-    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. For example: Add example here.
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge.
 
-* Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Type section (and [save](save-cedar-form.md) your form!)
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Type section (and [save](save-cedar-form.md) your form!)
     
 
         
