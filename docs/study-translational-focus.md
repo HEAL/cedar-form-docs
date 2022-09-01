@@ -21,8 +21,8 @@
 
     > Human subjects study examples:
 
-    >> * **Condition-focused:** an observational prospective cohort study, following developmental markers in babies exposed to opioids in utero, from birth through adolescence
-    * **Treatment-focused:** a randomized control trial, testing efficacy of a novel non-opioid drug for pain versus status quo use of an opioid drug.
+    >> * *Condition-focused:* an observational prospective cohort study, following developmental markers in babies exposed to opioids in utero, from birth through adolescence
+    * *Treatment-focused:* a randomized control trial, testing efficacy of a novel non-opioid drug for pain versus status quo use of an opioid drug.
 
     > Basic science or non-human subjects study examples:
 
