@@ -22,9 +22,10 @@ Expand the Data section. This section has seven fields; click below to expand gu
 
     
     **How this field will be used?**
-    <blockquote>
-        These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. For **example:** * **Qualitative:** A pre-K/K school teacher knows their surrounding community has high rates of OUD and wonders if student behavioral issues can be attributed to in utero opioid exposure. They want to recognize exposure impacts and support intervention for students and their parents, while also finding narrative case studies, by medical or educational providers, describing interactions with, and behaviors of, young children impacted by in utero OUD exposure, to understand similarities in experiences. * **Quantitative:** A clinician treating OUD notices a high rate of relapse in patients. They have seen news stories and case studies suggesting OUD relapse risks related to anxiety and depression, and seek quantitative research data to better understand whether anxiety and depression are clear risk factors, and if so, whether these factors increase relapse risk by a clinically meaningful amount.
-    </blockquote>
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. For **example:**
+
+    >> * **Qualitative:** A pre-K/K school teacher knows their surrounding community has high rates of OUD and wonders if student behavioral issues can be attributed to in utero opioid exposure. They want to recognize exposure impacts and support intervention for students and their parents, while also finding narrative case studies, by medical or educational providers, describing interactions with, and behaviors of, young children impacted by in utero OUD exposure, to understand similarities in experiences.
+    * **Quantitative:** A clinician treating OUD notices a high rate of relapse in patients. They have seen news stories and case studies suggesting OUD relapse risks related to anxiety and depression, and seek quantitative research data to better understand whether anxiety and depression are clear risk factors, and if so, whether these factors increase relapse risk by a clinically meaningful amount.
 
 ??? note "Source of data"
 
