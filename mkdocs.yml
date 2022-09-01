@@ -20,3 +20,4 @@ nav:
 theme: readthedocs
 markdown_extensions:
     - admonition
+    - pymdownx.details
