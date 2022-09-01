@@ -1,10 +1,10 @@
 # How to Identify and Complete CEDAR Array Type Fields
 
-!!! note
-    **How to identify an array type field:** When you click into a field, you will see a “1,2,3” list toggle icon to the left of the “?” icon (upper right corner of the gray field area); if you mouse over this icon, it will say “Toggle View.”
+!!! note "How to identify an array type field"
+    When you click into a field, you will see a “1,2,3” list toggle icon to the left of the “?” icon (upper right corner of the gray field area); if you mouse over this icon, it will say “Toggle View.”
 
-!!! note
-    **How to Complete an Arry Type Field:** An array field accepts multiple values. See instructions to provide one or multiple values in a CEDAR array field below.
+!!! note "How to Complete an Arry Type Field"
+    An array field accepts multiple values. See instructions to provide one or multiple values in a CEDAR array field below.
 
 ***
 
