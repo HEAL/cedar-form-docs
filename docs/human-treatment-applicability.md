@@ -85,82 +85,49 @@ Expand the Human Treatment Applicability section. This section has five fields; 
     - **Specifically looking for harm reduction:** * A clinician treating patients with OUD, some of whom are at high risk of relapse, seeks harm reduction approaches to offer these high risk patients. * A mayor of a town with crisis opioid overdose rates and drug-injection associated blood-borne diseases (Hepatitis C and HIV) outbreaks seeks interventions to reduce these concerns as soon as possible.
 
 
-<details>
-    <summary>**[Treatment Novelty](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_novelty)**</summary>
-    <blockquote>
+??? note "Treatment Novelty"
+    **How to answer**
+    > This field allows multiple answer selections, including “Novel," “Novel, added to established," “Established," and “Established, used in novel population, setting or combination." Select all that apply.
 
-        <details>
-            <summary>**How to answer**</summary>
-            <blockquote>
-                This field allows multiple answer selections, including “Novel," “Novel, added to established," “Established," and “Established, used in novel population, setting or combination." Select all that apply. **For example:** **Novel:** * A basic science study focused on in vitro and animal model testing of novel mRNA editing to modify molecular pathways for pain signaling in humans
+    > **For example:**
 
-                <br> **Novel, added to established:** * A study testing efficacy of adding opt-in novel support service access (help obtaining housing, food benefits, official identification records, legal advice, free phones, etc.) at safe injection and needle exchange sites (an established harm-reduction intervention)
+    >> * **Novel:** * A basic science study focused on in vitro and animal model testing of novel mRNA editing to modify molecular pathways for pain signaling in humans
+    * **Novel, added to established:** * A study testing efficacy of adding opt-in novel support service access (help obtaining housing, food benefits, official identification records, legal advice, free phones, etc.) at safe injection and needle exchange sites (an established harm-reduction intervention)
+    * **Established:** * A replication study testing efficacy of MOUD for OUD patients * A meta-analysis of trials that tested efficacy of an established back surgery to reduce chronic pain in those with low back injuries * An study documenting implementation and efficacy for outcomes of established harm reduction strategies, such as community-based safe injection and needle-exchange sites
+    * **Established, used in novel population, setting or combination:** * A study investigating efficacy of a MAT and community support navigator intervention to reduce risks for those leaving the emergency room following opioid overdose, when the efficacy of this intervention has already been well-established for individuals with history of OUD leaving jail
 
-                <br> **Established:** * A replication study testing efficacy of MOUD for OUD patients * A meta-analysis of trials that tested efficacy of an established back surgery to reduce chronic pain in those with low back injuries * An study documenting implementation and efficacy for outcomes of established harm reduction strategies, such as community-based safe injection and needle-exchange sites
+    **How this field will be used**
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge.
 
-                <br> **Established, used in novel population, setting or combination:** * A study investigating efficacy of a MAT and community support navigator intervention to reduce risks for those leaving the emergency room following opioid overdose, when the efficacy of this intervention has already been well-established for individuals with history of OUD leaving jail
+    > **For example:**
 
-            </blockquote>
-        </details>
-        <details>
-            <summary>**How this field will be used**</summary>
-            <blockquote>
-                These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:** **Specifically looking for novel:** * A journalist wants to write a splashy article on novel treatment development or novel uses of established treatments.
+    >> * **Specifically looking for novel:** A journalist wants to write a splashy article on novel treatment development or novel uses of established treatments.
+    * **Specifically looking for novel, added to established:** A chronic pain patient on physical therapy and low dose opioids, seeks studies that add to the established treatments for better results * A community-based org, running a safe injection and needle exchange site, wants to keep up to date on novel innovations in other communities to add to or modify this established effective intervention
+    * **Specifically looking for established:** A public health official, with money to address local opioid use, seeks to ensure funding an evidence-based established intervention.
+    * **Specifically looking for established, used in novel population, setting or combination:** A journalist wants to write a splashy article on novel treatment development or novel uses of established treatments.
 
-                <br> **Specifically looking for novel, added to established:** * A chronic pain patient on physical therapy and low dose opioids, seeks studies that add to the established treatments for better results * A community-based org, running a safe injection and needle exchange site, wants to keep up to date on novel innovations in other communities to add to or modify this established effective intervention
+??? note "Is the Treatment given/applied to individuals or populations?"
+    **How to answer**
+    > This field allows multiple selections, including “Individual" or “Population." Select all that apply. If the treatment, intervention, or solution is applied individually (e.g. a doctor’s prescription for their patient) or at the population/community/group level (e.g. a city changes good samaritan naloxone laws, implements a safe needle exchange center or education campaign, or adds a park maintenance budget to provide more outdoor exercise access)?
 
-                <br> **Specifically looking for established:** * A public health official, with money to address local opioid use, seeks to ensure funding an evidence-based established intervention.
+    **How this field will be used**
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. 
 
-                <br> **Specifically looking for established, used in novel population, setting or combination:** * A journalist wants to write a splashy article on novel treatment development or novel uses of established treatments.
+    > **For example:**
 
-            </blockquote>
-        </details>
-    </blockquote>
-</details>
+    >> * **Specifically looking for individual:** A pain or OUD patient seeks treatments that are relevant to the individual.
+    * **Specifically looking for population:** A public health official, with money to address local opioid use, wants to allocate the money to population/community level interventions.
 
-<details>
-    <summary>**[Is the Treatment given/applied to individuals or populations?](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_application_level)**</summary>
-    <blockquote>
+??? note "Treatment Type"
+    **How to answer**
+    > This field allows multiple selections, included in the full metadata model [definitions](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_type). Select all that apply and classify the treatment, intervention, or solution your by the broad type of intervention
 
-        <details>
-            <summary>**How to answer**</summary>
-            <blockquote>
-                This field allows multiple selections, including “Individual" or “Population." Select all that apply. If the treatment, intervention, or solution is applied individually (e.g. a doctor’s prescription for their patient) or at the population/community/group level (e.g. a city changes good samaritan naloxone laws, implements a safe needle exchange center or education campaign, or adds a park maintenance budget to provide more outdoor exercise access)? **For example:**
-            </blockquote>
-        </details>
-        <details>
-            <summary>**How this field will be used**</summary>
-            <blockquote>
-                These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, allowing users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:** **Specifically looking for individual:** * A pain or OUD patient seeks treatments that are relevant to the individual.
+    **How this field will be used**
+    > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge.
 
-                <br> **Specifically looking for population:** * A public health official, with money to address local opioid use, wants to allocate the money to population/community level interventions.
+    > **For example:**
 
-            </blockquote>
-        </details>
-    </blockquote>
-</details>
-
-<details>
-    <summary>**[Treatment Type](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_type)**</summary>
-    <blockquote>
-
-        <details>
-            <summary>**How to answer**</summary>
-            <blockquote>
-                This field allows multiple selections, included in the full metadata model [definitions](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=treatment_type). Select all that apply and classify the treatment, intervention, or solution your by the broad type of intervention
-            </blockquote>
-        </details>
-        <details>
-            <summary>**How this field will be used**</summary>
-            <blockquote>
-                These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:** * A clinician treating pain patients wants to keep up to date on research and development of non-opioid pain drugs and/or non-drug pain treatments. * A pain patient read physical therapy, exercise, and/or electrotherapy may help, and seeks research/evidence on these interventions.
-
-            </blockquote>
-        </details>
-    </blockquote>
-</details>
+    >> * A clinician treating pain patients wants to keep up to date on research and development of non-opioid pain drugs and/or non-drug pain treatments.
+    * A pain patient read physical therapy, exercise, and/or electrotherapy may help, and seeks research/evidence on these interventions.
 
 Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section (and [save](save-cedar-form.md) your form!)
-    
-
-        
