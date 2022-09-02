@@ -1,0 +1,8 @@
+in cmd (convert one file): 
+pandoc -f markdown -t docx -o .\for-review\index.docx .\docs\index.md
+
+in powershell (convert all files in dir):
+gci -r -i *.md |foreach{$docx=$_.directoryname+"\"+$_.basename+".docx";pandoc -f markdown+smart -s $_.name -o $docx}
+
+in powershell (concat docx into single docx file):
+pandoc .\index.docx .\minimal-info.docx .\meta-data-location.docx .\data-availability.docx .\study-translational-focus.docx .\study-type.docx .\expand-or-collapse-cedar-form-section.docx .\cedar-field-help-text.docx .\complete-cedar-array-field.docx .\save-cedar-form.docx .\update-cedar-form-metadata.docx -o for-review.docx
