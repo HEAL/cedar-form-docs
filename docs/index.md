@@ -1,8 +1,24 @@
 # I found my CEDAR form. Now What?
 
-* When you open your CEDAR form, it will be in "expanded" format, with all metadata fields from all form sections visible. 
-* The headings of each form section are in green type, while the field name text for each metadata field within a form section is in black type.
-* It may be helpful to start by ‘collapsing’ all the form sections down so that you see just the form section headings. This format allows you to see a simple overview of all the form sections, and you can expand one form section at a time as you work on each section in order.
+## Providing team members access to a CEDAR form
+
+* One individual registers a study on the Platform, but multiple team members can collaborate on a form. 
+* Each team member needs a CEDAR account.
+    * To create an account, visit [https://cedar.metadatacenter.org](https://cedar.metadatacenter.org).
+    * Click “Register” below the Password line.
+    * In the next window, enter your first name, last name, a functional email address, and a password.
+* The registering member shares the study’s CEDAR form with other team members.
+    * Click on the vertical three-dots to the right of the CEDAR Form in the CEDAR workspace and select "Share."
+
+## Expanding and collapsing form sections
+
+* CEDAR forms open in “expanded” format, with all metadata fields visible.
+* Section headings are in green text, and metadata fields are in black.
+* Consider “collapsing” each section and expanding them individually, as needed.
+
+
+## Overview
+
 * The CEDAR form has 9 sections: 
     * [Minimal Info](minimal-info.md) 
     * [(Meta)data Location](meta-data-location.md) 
@@ -13,20 +29,33 @@
     * [Human Condition Applicability](human-condition-applicability.md) 
     * Human Subject Applicability
     * [Data](data.md) 
-* Start by collapsing all of these sections down so that all you see is the (green text) heading for each of these form sections.
-* As you move through this form, save the metadata values you enter by scrolling to the bottom of your form and clicking the “Save” button at the bottom right. 
-* **Save often while you are completing the form to ensure that you do not lose any entered metadata values!** A good rule of thumb may be to save each time you complete a form section (or more often!).
-* **Please complete all sections of the form!** (*If your study does not focus on investigation of a treatment for a human pain or opioid use condition, the fields in the Human Treatment Applicability form section do not apply - please skip this section*)
-* Please reach out to us at heal-support@datacommons.io for questions or support - we are happy to help!
+
+## Best practices
+
+* **Save often to ensure you do not lose any entered metadata.**
+    * To save, click “Save” on the bottom right of the form. Note that saving will not close the page or redirect you.
+* **Complete all applicable sections of the form.** 
+    * *If your study does not investigate treatment for a human pain or opioid use condition, skip the “Human Treatment Applicability” section.*
+    * Some CEDAR form sections may depend on the life-cycle of your HEAL award. Complete the form over time, as the award advances.
+* For questions or support, contact **heal-support@datacommons.io.** We are happy to help!
 
 !!! note
-**You can collapse a form section by clicking on the form section heading (in green type). Click on the form section heading again to re-expand the form section.** 
+    **Collapse sections by clicking the section heading (green). Click the section heading again to expand it.**
    
 !!! note
-**Help text for each field is available once you click into the field. Once you click into a field, a “?” icon is available in the upper right of the field area. Mouse over the “?” icon to expose help text for that field.**
+    **Help text is available. Once you enter a field, mouse over the “?” icon in the upper right to view help text for that field.**
 
 !!! note
-**The Platform will provide access to a re-visitable portal on the Platform that will allow investigators to update metadata fields that will/may need to be updated as a HEAL study moves through its life-cycle. <mark>If you need to update metadata fields from the CEDAR form before this portal is available, please reach out to the Platform Help Desk at heal-support@datacommons.io for assistance.</mark>** 
+    **You can access your CEDAR form as many times as you want and updates any fields you want, until the form is as complete as it can be at the time of Platform registration.**
+
+!!! note
+    **As your study advances to a point at which additional metadata becomes available – such as a new publication or release of study data – we ask that you contact the Platform Help Desk at heal-support@datacommons.io to navigate updating your original study-level metadata.**
+
+!!! note
+    **ALL entries into this form may be used for HEAL investigator outreach, to provide data sharing support and extend data collaboration invitations, AND by the NIH HEAL office to track progress.**
+   
+!!! note
+    **MOUD defines medications for opioid use disorder, and OUD defines opioid use disorder.**
 
 
  

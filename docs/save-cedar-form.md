@@ -1,6 +1,9 @@
-# Save your CEDAR form
+# Saving your CEDAR form
 
 !!! note
-**As you move through this form, save the metadata values you enter by scrolling to the bottom of your form and clicking the “Save” button at the bottom right. Save often while you are completing the form to ensure that you do not lose any entered metadata values! A good rule of thumb may be to save each time you complete a form section (or more often!).**
+    As you move through this form, save your entries by scrolling to the bottom of your form and clicking “Save” (bottom right). Save often while completing the form so you do not lose any entered metadata. Save each time you complete a form section (or more often).
+
+!!! note
+    Saving will not close the page or redirect you.
 
 
