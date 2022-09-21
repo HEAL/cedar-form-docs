@@ -18,7 +18,7 @@ nav:
       - Saving CEDAR Form: save-cedar-form.md
       - Update CEDAR Form Metadata: update-cedar-form-metadata.md
       - Sharing your CEDAR form with other members of your study team: sharing-your-cedar-form.md
-theme: mkdocs
+theme: readthedocs
 markdown_extensions:
     - admonition
     - pymdownx.details
