@@ -1,6 +1,8 @@
 # Human Treatment Applicability
 
-**This section ONLY APPLIES to studies listed as “Treatment” or “Treatment of a Condition” in the Study Translational Focus section. Contact heal-support@datacommons.io for questions or support.**
+**This section ONLY APPLIES to studies that listed their [Study Translational Focus](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_translational_focus%20(string)%3A) as “Treatment of a Condition”.** 
+
+**Studies that are not focused on studying <u>treatment</u> of a condition (e.g. studies that are instead focused on studying the condition itself) should skip this section. Contact heal-support@datacommons.io for questions or support.**
 
 **Resources:**
 
