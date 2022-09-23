@@ -1,0 +1,39 @@
+# This is a basic workflow to help you get started with Actions
+# ART - other refs used
+# https://github.com/actions/setup-python
+# https://github.com/actions/checkout
+# https://blog.elmah.io/deploying-a-mkdocs-documentation-site-with-github-actions/
+
+name: build
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  #pull_request:
+  #  branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      # Install latest version of python 3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip' # caching pip dependencies
+      # install dependencies listed in requirements.txt file
+      - run: pip install -r requirements.txt
+      # deploy mkdocs to github pages
+      - run: mkdocs gh-deploy --force --clean --verbose
