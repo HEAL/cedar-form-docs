@@ -7,11 +7,9 @@
 **Resources:**
 
 * See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
-* See the full metadata model Human Treatment Applicability element.
-* See the definition for each full metadata model field, and the permitted answer options, by clicking on the bold field names below.
-* See guidance for responding to each field and Platform User use cases, by clicking the arrow to the left of the field names (bold below).
+* See the full metadata model [Human Treatment Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_treatment_applicability) element.
 
-Expand the Human Treatment Applicability section. This section has five fields; click below to expand guidance for each field.
+This section has five fields; click below to expand guidance for each field.
 
 ??? note "Treatment Investigation Stage or Type"
     **How to answer**
