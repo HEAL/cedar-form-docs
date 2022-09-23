@@ -29,8 +29,9 @@ Technical help for navigating the CEDAR form is available under the "CEDAR Hints
     * [Study Type](study-type.md) 
     * [Human Treatment Applicability](human-treatment-applicability.md) 
     * [Human Condition Applicability](human-condition-applicability.md) 
-    * Human Subject Applicability
+    * [Human Subject Applicability](human-subject-applicability.md)
     * [Data](data.md) 
+
 
 ## Best practices
 

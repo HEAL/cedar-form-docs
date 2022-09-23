@@ -10,6 +10,7 @@ nav:
       - Study Type: study-type.md
       - Human Treatment Applicability: human-treatment-applicability.md
       - Human Condition Applicability: human-condition-applicability.md
+      - Human Subject Applicability: human-subject-applicability.md
       - Data: data.md
     - CEDAR Hints: 
       - Expand or Collapse CEDAR Form Section: expand-or-collapse-cedar-form-section.md
