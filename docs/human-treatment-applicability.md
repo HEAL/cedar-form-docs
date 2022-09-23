@@ -9,7 +9,7 @@
 * See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
 * See the full metadata model [Human Treatment Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_treatment_applicability) element.
 
-This section has five fields; click below to expand guidance for each field.
+If it's not already open, [expand](expand-or-collapse-cedar-form-section.md) the Human Treatment Applicablity section on your CEDAR form. This section has five fields; click below to expand guidance for each field. 
 
 ??? note "Treatment Investigation Stage or Type"
     **How to answer**
@@ -212,4 +212,4 @@ This section has five fields; click below to expand guidance for each field.
     > * A clinician treating pain patients wants to keep up to date on research and development of non-opioid pain drugs and/or non-drug pain treatments.
     * A pain patient read physical therapy, exercise, and/or electrotherapy may help, and seeks research/evidence on these interventions.
 
-Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section (and [save](save-cedar-form.md) your form!)
+Once complete, [save](save-cedar-form.md) your form, and [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section.
