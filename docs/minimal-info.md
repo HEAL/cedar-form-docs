@@ -17,7 +17,7 @@
     > If your study title is incorrect, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
     **How this field will be used**
-    > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in the Platform study table study entry and on the Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study and decide whether it is of clear interest for their purposes.    
+    > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in your study's Platform study table entry and on your study's Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study and decide whether it is of clear interest for their purposes.    
 
 ??? note "Study Description or Abstract"
      **How to answer**
@@ -26,7 +26,7 @@
     > If your study description is incorrect, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
     **How this field will be used**
-    > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in the Platform study table study entry and on the Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes.  
+    > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in your study's Platform study table entry and on your study's Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes.  
 
 ??? note "Alternative Study Title or Name"
     **How to answer**
@@ -37,10 +37,10 @@
     > You are <u>not required</u> to provide an alternative study title, as the study title auto-populated from NIH RePORTER will appear on the Platform, regardless of these alternative values. However, there are good reasons to provide one:
 
     >>* The text is searchable via the Platform’s free-text search and discovery tools, so key terms and/or alternative study name structures (including study name acronyms) may make your study more findable.
-    * The text may be visible on the Platform’s study page in the future, allowing users to read it and better determine whether your study is of interest.
+    * The text may be visible on your study's Platform study page in the future, allowing users to read it and better determine whether your study is of interest.
 
     **How this field will be used**
-    > This field will be available to free text search and discovery tools on the Platform and the text may appear on the Platform study page. This will make your study more discoverable by Platform Users, and may also help the Platform Users who find your study to identify your study, and decide whether it is of clear interest for their purposes. 
+    > This field will be available to free text search and discovery tools on the Platform and the text may appear on your study's Platform study page. This will make your study more discoverable by Platform Users, and may also help the Platform Users who find your study to identify your study, and decide whether it is of clear interest for their purposes. 
 
 ??? note "Alternative Study Description or Abstract"
     **How to answer**
@@ -51,9 +51,9 @@
     > You are <u>not required</u> to provide an alternative study description, as the study description auto-populated from NIH RePORTER will appear on the Platform, regardless of these alternative values. However, there are good reasons to provide one:
 
     >>* The text is searchable via the Platform’s free-text search and discovery tools, so key terms and/or alternative study name structures (including study name acronyms) may make your study more findable.
-    * The text may be visible on the Platform’s study page in the future, allowing users to read it and better determine whether your study is of interest.
+    * The text may be visible on your study's Platform study page in the future, allowing users to read it and better determine whether your study is of interest.
 
     **How this field will be used**
-    > This field will be available to free text search and discovery tools on the Platform and the text may appear on the Platform study page. This will make your study more discoverable by Platform Users, and may also help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes. 
+    > This field will be available to free text search and discovery tools on the Platform and the text may appear on your study's Platform study page. This will make your study more discoverable by Platform Users, and may also help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes. 
 
 Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Minimal Info section and [save](save-cedar-form.md) your form. 
