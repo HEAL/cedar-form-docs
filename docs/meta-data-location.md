@@ -4,8 +4,11 @@
 
 * See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
 * See the [(Meta)data Location](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=metadata_location) element of the full metadata model.
-* Not all fields in the (Meta)data Location element are represented in the CEDAR form - fields that are auto-populated from NIH RePORTER or other sources AND fields that we do not expect HEAL investigators to be able to fill out at the time of study registration do NOT appear in the CEDAR form  
-* See guidance to respond to each field represented in the form, and their use cases, by clicking the arrow to the left of the bold field names below.
+* See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
+
+**Extra context:**
+
+* Not all fields in the (Meta)data Location element are represented in the CEDAR form - fields that are auto-populated from NIH RePORTER or other sources AND fields that we do not expect HEAL investigators to be able to fill out at the time of study registration do NOT appear in the CEDAR form
 
 **Fill out this section of the CEDAR form:**
 
