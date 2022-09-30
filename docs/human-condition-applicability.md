@@ -4,10 +4,11 @@
 
 * See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
 * See the [Human Condition Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_condition_applicability) element of the full metadata model.
-* See the definition for each field in the Human Condition Applicability element, and allowed answer options, by clicking the bold field names below.
 * See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
-Expand the Human Condition Applicability section. This section has seven fields; click below to expand guidance for each field.
+**Fill out this section of the CEDAR form:**
+
+[Expand](expand-or-collapse-cedar-form-section.md) the Human Condition Applicability section. This section has seven fields; click below to expand guidance for each field.
 
 ??? note "Relevant Opioid use and/or Pain condition - Category(ies)"
     **How to answer**
@@ -178,7 +179,7 @@ Expand the Human Condition Applicability section. This section has seven fields;
 
     >> * A researcher hypothesizing a link between anxiety and conversion to chronic pain seeks studies following cohorts of acute pain patients over time that also track conversion to chronic pain and measure anxiety (Causal condition: **“pain," “acute pain”**; Target condition: **“pain," “acute pain”**; Outcome condition: **“pain,"“chronic pain”**; Other condition: **“anxiety”**)
 
-Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Human Condition Applicability section (and [save](save-cedar-form.md) your form!)
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Human Condition Applicability section and [save](save-cedar-form.md) your form.
     
 
         

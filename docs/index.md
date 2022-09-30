@@ -1,5 +1,7 @@
 # I found my CEDAR form. Now What?
 
+Technical help for navigating the CEDAR form is available under the "CEDAR Hints" section of this site. Reach out at any time with questions or for support at <u>heal-support@datacommons.io</u>
+
 ## Providing team members access to a CEDAR form
 
 * One individual registers a study on the Platform, but multiple team members can collaborate on a form. 
@@ -14,7 +16,7 @@
 
 * CEDAR forms open in “expanded” format, with all metadata fields visible.
 * Section headings are in green text, and metadata fields are in black.
-* Consider “collapsing” each section and expanding them individually, as needed.
+* Consider [“collapsing”](expand-or-collapse-cedar-form-section.md) each section and expanding them individually, as needed, as you move through the form.
 
 
 ## Overview
@@ -27,29 +29,33 @@
     * [Study Type](study-type.md) 
     * [Human Treatment Applicability](human-treatment-applicability.md) 
     * [Human Condition Applicability](human-condition-applicability.md) 
-    * Human Subject Applicability
+    * [Human Subject Applicability](human-subject-applicability.md)
     * [Data](data.md) 
+
 
 ## Best practices
 
 * **Save often to ensure you do not lose any entered metadata.**
     * To save, click “Save” on the bottom right of the form. Note that saving will not close the page or redirect you.
 * **Complete all applicable sections of the form.** 
-    * *If your study does not investigate treatment for a human pain or opioid use condition, skip the “Human Treatment Applicability” section.*
-    * Some CEDAR form sections may depend on the life-cycle of your HEAL award. Complete the form over time, as the award advances.
-* For questions or support, contact **heal-support@datacommons.io.** We are happy to help!
+    * Some sections or fields of the CEDAR form will not be applicable to all studies
+        * For example: 
+            * If your study does not have a [Study Translational Focus](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_translational_focus%20(string)%3A) of "Treatment of a Condition", the [Human Treatment Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_treatment_applicability) section does not apply
+            * Several fields in the [Human Condition Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_condition_applicability) section only apply to studies focusing on a human pain condition or treatment of a human pain condition, and *do not* apply to studies focusing on a human opioid use condition or treatment of a human opioid use condition
+        * Follow guidance provided on this site to decide if a form section or field does not apply to your study
+        * If a form section or field does not apply to your study, you can skip it 
+        * If you have questions about whether a section or field applies or does not apply to your study, please reach out to <u>heal-support@datacommons.io</u>
+* **Complete the CEDAR form as soon as possible following notification of your HEAL award.**        
+    * The CEDAR form has been calibrated to include only fields that appropriately knowledgeable study staff should know and be able to fill out as soon as HEAL funding has been awarded 
+    * There is **no need to wait for data collection to start** to fill out the CEDAR form 
+    * We highly encourage investigators or other study staff to provide this study-level metadata as soon as possible following notification of the award of HEAL funding for your study
+    * The form does not need to be completed in a single session; you can access your CEDAR form as many times as you want until the form is as complete as it can be
+    * Some fields will need to be updated over time (e.g. data collection status will need to be updated from 'not started' to 'started' to finished over the life-cycle of the study)
+        * Complete these fields to reflect current study status at time of filling out the CEDAR form
+        * A mechanism for easily [updating](update-cedar-form-metadata.md) these items over the course of the study life-cycle will be provided   
 
-!!! note
-    **Collapse sections by clicking the section heading (green). Click the section heading again to expand it.**
-   
-!!! note
-    **Help text is available. Once you enter a field, mouse over the “?” icon in the upper right to view help text for that field.**
 
-!!! note
-    **You can access your CEDAR form as many times as you want and updates any fields you want, until the form is as complete as it can be at the time of Platform registration.**
 
-!!! note
-    **As your study advances to a point at which additional metadata becomes available – such as a new publication or release of study data – we ask that you contact the Platform Help Desk at heal-support@datacommons.io to navigate updating your original study-level metadata.**
 
 !!! note
     **ALL entries into this form may be used for HEAL investigator outreach, to provide data sharing support and extend data collaboration invitations, AND by the NIH HEAL office to track progress.**
