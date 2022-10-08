@@ -49,13 +49,13 @@
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
     
-    > This field allows multiple answer selections from a response set, including: Female, Female-to-male transexual, Intersexed, Male, Male-to-female transexual, Other 
+    > This field allows multiple answer selections from a response set, including: 'Female', 'Female-to-male transsexual', 'Intersexed', 'Male', 'Male-to-female transsexual', 'Other' 
     
     > If your study has **clear special applicability** to humans of a specific gender identity or identities, <u>mark all that apply</u>
     
     > Examples of studies with **clear special applicability**:
-    >> * a basic science study using biochemstry experiments to investigate potential molecular interactions between puberty-blocking drugs and opioid receptor pathways, and using animal model experiments to investigate the impact of co-administration of puberty-blocking drugs and opioids in an adolescent mouse injury pain model on opioid-induced pain-relief and on risk of opioid addiction &rarr; **this study may choose "Female-to-male transexual", "Male-to-female transexual", and "Other"** (puberty blockers can be prescribed to early-adolescents who consider their gender identity to be trans OR non-binary; non-binary would be covered under the "Other" category)    
-    * a clinical trial investigating the efficacy of adding a physical therapy and swim exercise therapy regimen to short-course opioids to prevent transition of acute post-surgical pain to chronic pain in cisgender women and transgender men following surgical mastectomy &rarr; **this study may choose "Female" and "Female-to-male transexual"** 
+    >> * a basic science study using biochemstry experiments to investigate potential molecular interactions between puberty-blocking drugs and opioid receptor pathways, and using animal model experiments to investigate the impact of co-administration of puberty-blocking drugs and opioids in an adolescent mouse injury pain model on opioid-induced pain-relief and on risk of opioid addiction &rarr; **this study may choose 'Female-to-male transexual', 'Male-to-female transexual', and 'Other'** (puberty blockers can be prescribed to early-adolescents who consider their gender identity to be trans OR non-binary; non-binary would be covered under the 'Other' category)    
+    * a clinical trial investigating the efficacy of adding a physical therapy and swim exercise therapy regimen to short-course opioids to prevent transition of acute post-surgical pain to chronic pain in cisgender women and transgender men following surgical mastectomy &rarr; **this study may choose 'Female' and 'Female-to-male transexual'** 
 
     
     > If your study **may apply** to humans of a specific gender identity or identities because it is conducted either without regard to gender identity or is conducted in a manner that is inclusive of the full range of gender identities, <u>mark NONE of the value options</u>
@@ -80,9 +80,37 @@
     
 
 ??? note "To humans of which sexual identity(ies) do study results apply"
-    **How to answer**
     
-    **How this field will be used**
+    <br>
+    <mark style="background-color: #FFFF00">**How to answer**</mark>
+    
+    > This field allows multiple answer selections from a response set, including: 'Heterosexual', 'Homosexual (gay/lesbian)', 'Bisexual', 'Asexual', 'Other' 
+    
+    > If your study has **clear special applicability** to humans of a specific sexual identity or identities, <u>mark all that apply</u>
+    
+    > Examples of studies with **clear special applicability**:
+    >> * a survey of gay and bisexual adults to assess 1) to what extent they have experienced negative reactions among healthcare providers to their sexual identity, 2) to what extent such experiences cause them to delay or forgo healthcare in general, or mental healthcare or pain healthcare in particular, 3) whether they have ever self-medicated to treat mental health or pain issues, and 4) what self-medication mechanisms they have used &rarr; **this study may choose 'Homosexual (gay/lesbian)', and 'Bisexual'**    
+    * a basic science study using mouse model experiments to investigate potential changes to mechanism, side-effects, or efficacy of medication such as methadone or buprenorphine for maintaining remission of opioid use disorder when co-administered with a new formulation of PrEP (pre-exposure prophylaxis, to prevent acquisition of HIV) that has [only been approved in men who have sex with men](https://www.reuters.com/article/us-gilead-sciences-fda/fda-panel-backs-gileads-hiv-prevention-drug-descovy-except-in-women-idUSKCN1UX2DD) &rarr; **this study may choose 'Homosexual (gay/lesbian)', 'Bisexual', and maybe 'Other'** 
+
+    
+    > If your study **may apply** to humans of a specific sexual identity or identities because it is conducted either without regard to sexual identity or is conducted in a manner that is inclusive of the full range of sexual identities, <u>mark NONE of the value options</u>
+
+    > Examples of studies that **may apply**:
+    >> * a survey of a nationally representative sample of US adults to assess 1) to what extent they have experienced negative reactions among healthcare providers to any aspect of their identity including education level, class, race, age, sexual or gender identity, etc., 2) to what extent such experiences cause them to delay or forgo healthcare in general, or mental healthcare or pain healthcare in particular &rarr; **this study should skip this field, choosing none of the available options** 
+    * a basic science study using mouse model experiments to investigate potential changes to mechanism, side-effects, or efficacy of medication such as methadone or buprenorphine for maintaining remission of opioid use disorder when co-administered with a standard formulation of PrEP (pre-exposure prophylaxis, to prevent acquisition of HIV) that has been approved for the general adult population &rarr; **this study should skip this field, choosing none of the available options** 
+ 
+
+    <mark style="background-color: #FFFF00">**How this field will be used**</mark>
+
+    > The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. 
+    
+    > Example use cases where a Platform User is looking for studies with **clear special applicability** include:
+
+    >> * I am a public health official in a community that has evidence that an uptick in opioid overdoses among older gay adults may be partially attributed to self-medicating chronic pain with street opioids - I am looking for studies that specifically investigate risk factors for self-medicating chronic pain in older gay adults. To find such studies, I would filter on the sexual identity field, choosing **'Homosexual (gay/lesbian)'**
+    * I am the parent of a teenager who has just come out as gay - There's been a spate of opioid overdoses at my kid's highschool, so I'm already concerned about them, and I've heard that gay teenagers are at higher risk of substance use in general - I am looking for studies that specifically investigate whether there is a differential risk for opioid use in gay versus straight teenagers, or that look at risk factors and mechanisms to address risk for opioid first use, opioid addiction, and opioid overdose specifically in gay teenagers. To find such studies, I would filter on the sexual identity field, choosing **'Homosexual (gay/lesbian)'**    
+        * If I don't find many studies of interest when using these limiting gender identity filters, I may want to expand my search to look for all studies that **may apply** to my population of interest because they are conducted either without regard to sexual identity or are conducted in a manner that is inclusive of the full range of sexual identities. 
+        * To find such studies, I would filter on the sexual identity field and choose the **'Conducted without regard to gender identity'** and/or **'Inclusive of all gender identities'** value options. 
+        * This filter setting will return studies that indicated their study was conducted without regard to sexual identity or inclusive of all sexual identities by selecting NONE of the sexual identity value options 
     
 
 ??? note "To humans of which biological sexes do study results apply"
