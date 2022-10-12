@@ -163,7 +163,7 @@
     > If your study **may apply** to humans of a specific age/developmental stage or stages because it is conducted either without regard to age/developmental stage or is conducted in a manner that is inclusive of the full range of age/developmental stage, <u>mark NONE of the value options</u>
 
     > Examples of studies that **may apply**:
-    >> * a basic science trial looking to develop an in vitro tissue chip model of an innervated joint to study the development and treatment of osteoarthritic pain due to chronic mechanical and other stresses on the joint, where the joint tissue in the model is explicitly formulated to mimic joint tissue in the 'average' human &rarr; **this study should skip this field, choosing none of the available options** 
+    >> * a basic science study looking to develop an in vitro tissue chip model of an innervated joint to study the development and treatment of osteoarthritic pain due to chronic mechanical and other stresses on the joint, where the joint tissue in the model is explicitly formulated to mimic joint tissue in the 'average' human &rarr; **this study should skip this field, choosing none of the available options** 
     * a clinical trial to test the efficacy of treating migraine pain in adults (no age exclusions other than over 18) with a combination of water/swim and massage therapy &rarr; **this study should skip this field, choosing none of the available options** 
  
 
@@ -181,10 +181,41 @@
     
 
 ??? note "To humans in which special vulnerability categories do study results apply"
-    **How to answer**
-    
 
-    **How this field will be used**
+    <br>
+    <mark style="background-color: #FFFF00">**How to answer**</mark>
+    
+    > This field allows multiple answer selections from a response set, including: 'Pregnant women', 'Human fetuses', 'Neonates', 'Prisoners', 'Children', 'Individuals with physical disabilities', 'Individuals with mental disabilities or cognitive impairments', 'Economically disadvantaged', 'Socially disadvantaged', 'Terminally ill or very sick', 'Racial or ethnic minorities', 'Institutionalized persons (for example, persons in correctional facilities, nursing homes or mental health facilities)'
+    
+    > If your study has **clear special applicability** to humans of a specific special vulnerability category, <u>mark all that apply</u>
+    
+    > Examples of studies with **clear special applicability**:
+    >> * a basic science study using a mouse model of endometriosis in female mice pre/post and +/- being impregnated to investigate the impact of pregnancy on pain caused by endometriosis and on efficacy of a panel of accepted treatments for endometriosis pain &rarr; **this study may choose 'Pregnant women'**
+    * a basic science study using a mouse model of migraine pain in the context of a mouse model of social stress/isolation (e.g. identification of 'socially dominant' and 'socially subordinate mice' within the population) to investigate the impact of social stress/isolation on pain caused by migraine and on efficacy of a panel of accepted treatments for migraine pain &rarr; **this study may choose 'Socially disadvantaged'**
+    * a clinical trial enrolling neonates exposed to opioids in utero to test efficacy of a treatment to prevent developmental delays caused by in utero exposure &rarr; **this study may choose 'Neonates'** 
+    * a cluster randomized control trial at the community level testing the efficacy of establishing high quality, free or low cost child care centers for younger children and community centers with after-school programming and supervised outdoor and indoor open spaces for older children and adolescents to prevent opioid exposure and opioid overdose in children and teens    in the community, where communities targeted must have a median income 30% lower than the median income of the city/metro area in which it is located &rarr; **this study may choose 'Economically disadvantaged'**   
+    * a randomized control trial investigating the efficacy of providing community resource connection support plus gauranteed  MAT (medication assisted treatment) to individuals with a history of opioid use disorder as they exit a jail or prison institution to prevent opioid overdose events in this population &rarr; **this study may choose 'Institutionalized persons (for example, persons in correctional facilities, nursing homes or mental health facilities)'**  
+
+    
+    > If your study **may apply** to humans of a specific special vulnerability category or categories because it is conducted either without regard to special vulnerability category or is conducted in a manner that is inclusive of the full range of special vulnerability categories, <u>mark NONE of the value options</u>
+
+    > Examples of studies that **may apply**:
+    >> * a basic science study using a mouse model of endometriosis in female mice to investigate the risk factors for and mechanism of development of pain caused by endometriosis, and to investigate the potential efficacy of a novel vibration therapy device to prevent and treat endometriosis pain &rarr; **this study should skip this field, choosing none of the available options** 
+    * a randomized control trial investigating the efficacy of offering community resource connection support plus gauranteed MAT (medication assisted treatment) to individuals with opioid use disorder (OUD) as soon as they consult a physician about OUD concerns, or as they exit an emergency room following an ER visit for opioid overdose &rarr; **this study should skip this field, choosing none of the available options** 
+ 
+
+    <mark style="background-color: #FFFF00">**How this field will be used**</mark>
+
+    > The values from this field will likely be available as an "Advanced Search" filter on the HEAL Platform Discovery page, and will allow Platform users to quickly filter down to the broad type of study, study data, or study-generated knowledge in which they are most interested. 
+    
+    > Example use cases where a Platform User is looking for studies with **clear special applicability** include:
+
+    >> * I am an older adult (just had my 85th birthday!) who has dealt with chronic pain for decades - I feel like the treatment regimen that used to work for me no longer does and I think it may be because of my advancing age, including just normal changes to my body and complications from other health conditions and drugs I take for those conditions that have cropped up over the years - I am looking for studies that specifically investigate treatments for chronic pain in older people. To find such studies, I would filter on the age/developmental stage field, choosing **'Aged adult (65 to 79 years)', and/or 'Aged, 80 and over (80 years and over)'**
+    * I am the parent of an elementary-school aged child who is scheduled for a serious surgery - I've been advised that my child will be in a lot of pain after the surgery and will be prescribed opioids to manage the pain - I am looking for studies that specifically investigate severity of post-surgical pain in children following surgery of similar types to the kind my child will undergo, how to treat post-surgical pain in children, and risks associated with taking opioids for post-surgical pain in children my child's age. To find such studies, I would filter on the age/developmental stage field, choosing **'Child (6 to 12 years)'**    
+        * If I don't find many studies of interest when using these limiting biological sex filters, I may want to expand my search to look for all studies that **may apply** to my population of interest because they are conducted either without regard to age/developmental stage or are conducted in a manner that is inclusive of the full range of age/developmental stage. 
+        * To find such studies, I would filter on the age/developmental stage field and choose the **'Conducted without regard to age/developmental stage'** and/or **'Inclusive of all age/developmental stage'** value options. 
+        * This filter setting will return studies that indicated their study was conducted without regard to age/developmental stage or inclusive of all age/developmental stage by selecting NONE of the age/developmental stage value options 
+   
     
 
 ??? note "To humans in which geographical locations do the study results apply"
