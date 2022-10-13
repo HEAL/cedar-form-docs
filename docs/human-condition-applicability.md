@@ -6,9 +6,14 @@
 * See the [Human Condition Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_condition_applicability) element of the full metadata model.
 * See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
+**Extra context:**
+
+* This section will apply to your study <u>even if your study is not a human subjects study</u>
+* Some fields in this section will only apply to your study if the focus of your study is a human pain condition, or treatment of a human pain condition (studies focusing on a human opioid use condition, or treatment of a human opioid use condition should skip these fields)
+
 **Fill out this section of the CEDAR form:**
 
-[Expand](expand-or-collapse-cedar-form-section.md) the Human Condition Applicability section. This section has seven fields; click below to expand guidance for each field.
+[Expand](expand-or-collapse-cedar-form-section.md) the Human Condition Applicability section. This section has seven fields; click below to expand guidance for each field:
 
 ??? note "Relevant Opioid use and/or Pain condition - Category(ies)"
     **How to answer**

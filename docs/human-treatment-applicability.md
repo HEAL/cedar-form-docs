@@ -1,15 +1,20 @@
 # Human Treatment Applicability
 
-**This section ONLY APPLIES to studies that listed their [Study Translational Focus](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_translational_focus%20(string)%3A) as “Treatment of a Condition”.** 
-
-**Studies that are not focused on studying <u>treatment</u> of a condition (e.g. studies that are instead focused on studying the condition itself) should skip this section. Contact heal-support@datacommons.io for questions or support.**
-
 **Resources:**
 
 * See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
-* See the full metadata model [Human Treatment Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_treatment_applicability) element.
+* See the [Human Treatment Applicability](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=human_treatment_applicability) element of the full metadata model.
+* See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
-If it's not already open, [expand](expand-or-collapse-cedar-form-section.md) the Human Treatment Applicablity section on your CEDAR form. This section has five fields; click below to expand guidance for each field. 
+**Extra context:**
+
+* This section will apply to your study <u>even if your study is not a human subjects study</u>
+* This section **ONLY APPLIES** to studies that listed their [Study Translational Focus](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_translational_focus%20(string)%3A) as “Treatment of a Condition”. 
+* Studies that are not focused on studying <u>treatment</u> of a human pain or opioid use condition (e.g. studies that are instead focused on studying the condition itself) should skip this section. Contact heal-support@datacommons.io for questions or support.
+
+**Fill out this section of the CEDAR form:**
+
+[Expand](expand-or-collapse-cedar-form-section.md) the Human Treatment Applicablity section. This section has five fields; click below to expand guidance for each field: 
 
 ??? note "Treatment Investigation Stage or Type"
     **How to answer**
@@ -212,4 +217,4 @@ If it's not already open, [expand](expand-or-collapse-cedar-form-section.md) the
     > * A clinician treating pain patients wants to keep up to date on research and development of non-opioid pain drugs and/or non-drug pain treatments.
     * A pain patient read physical therapy, exercise, and/or electrotherapy may help, and seeks research/evidence on these interventions.
 
-Once complete, [save](save-cedar-form.md) your form, and [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section.
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Human Treatment Applicability section and [save](save-cedar-form.md) your form.

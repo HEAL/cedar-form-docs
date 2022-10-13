@@ -1,15 +1,21 @@
 # Data
 
-**This section ONLY APPLIES to studies answering “Yes” to “Will your study collect or produce data?” in the Data Availability form section. Contact heal-support@datacommons.io for questions or support.**
-
 **Resources:**
 
 * See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
 * See the [Data](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=WV%27%2C%20%27WY%27%5D.-,data,-(object)) element of the full metadata model.
-* See the definition for each field in the Human Condition Applicability element, and allowed answer options, by clicking the bold field names below.
 * See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
-Expand the Data section. This section has seven fields; click below to expand guidance for each field.
+**Extra context:**
+
+* This section ONLY APPLIES to studies answering “Yes” to “Will your study collect or produce data?” in the Data Availability form section. Contact heal-support@datacommons.io for questions or support.
+* This section has 10 fields; 
+    * The first 3 fields apply to your study even if your study is not a human subjects study
+    * The final 7 fields apply to your study ONLY if your study is a human subject study
+
+**Fill out this section of the CEDAR form:**
+
+[Expand](expand-or-collapse-cedar-form-section.md) the Data section. This section has ten fields; click below to expand guidance for each field:
 
 
 ??? note "Is data quantitative or qualitative?"
@@ -165,4 +171,4 @@ Expand the Data section. This section has seven fields; click below to expand gu
 
     >> * **Exact location; Census block; OR Census tract** for both geographic data collected AND geographic data available, or just for geographic data available field: A researcher conducting a meta-analysis of studies on housing insecurity impacts on OUD outcomes, following residential OUD treatment, will limit studies to those collecting individual data, including high-resolution geographic data, to combine this data and correct for socio-environmental factors. They need geographic data at least as specific as census tract, and only want to include data that is already available in a public data repository.
 
-Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Data section (and [save](save-cedar-form.md) your form!)        
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Data section and [save](save-cedar-form.md) your form.        

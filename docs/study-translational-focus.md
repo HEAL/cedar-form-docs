@@ -1,23 +1,27 @@
 # Study Translational Focus
-**Context for the Study Translational form section:**
+**Resources:**
 
-* The HEAL Initiative was founded to **reduce deaths and other negative consequences** of OUD, opioid overdose, and opioid exposure.
-* The HEAL Initiative also focuses on **finding new solutions to human pain and pain management** (largely because opioid pain treatment is foundational in initiating OUD, and increases supply and access to opioid pills for pain patients and the general population).
-* Even when HEAL studies don’t involve human subjects, they are **Condition- or Treatment-focused**.
-  
->* **HEAL Condition-focused studies:** Study results focus on learning more to improve understanding about human OUD and/or pain, including its related incidence, risk, mechanisms, impact, and public attitudes and perceptions.
-  * **HEAL Treatment-focused studies:** Study results relate to treatments, interventions, or solutions targeting opioid use or pain conditions. They may focus on the individual or community, covering the very early/discovery stage of targets or mechanisms to impact those targets, efficacy of a mechanism to impact a target, and implementation. Other studies or data collection efforts may focus on understanding the access or availability of treatments, interventions, or solutions (e.g. SAMHSA N-SSATS and N-MHSS datasets).
+* See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
+* See the [Study Translational Focus](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_translational_focus) element of the full metadata model.
+* See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
-* HEAL Platform users will look for studies, study data, and study-generated knowledge from a condition- or treatment-focused perspective.
-* Metadata in this section (including identification of your study as either Condition- or Treatment-focused) allows Platform users to quickly find broad, relevant studies, study data, or study-generated knowledge.
+**Extra context:**
+
+* The HEAL Initiative was founded to **reduce deaths and other negative consequences** of opioid use disorder (OUD), opioid overdose, and opioid exposure.
+* The HEAL Initiative also focuses on **finding new solutions to human pain and pain management** (largely because opioid pain treatment has historically been foundational in initiating OUD, and in increasing supply and access to opioid pills for pain patients and the general population).
+* Even when HEAL studies don’t involve human subjects, they generally focus on learning more about a human pain or opioid use condition (**Condition-focused**) or they focus on learning more about a treatment, intervention, or solution for a human pain or opioid use condition (**Treatment-focused**).
+* We expect that many HEAL Platform users will look for studies, study data, and study-generated knowledge from a condition- or treatment-focused perspective; they will either want to find new information about a human pain or opioid use condition, or treatment for a human pain or opioid use condition.
+* Classifying your study in this way (i.e. identifying your study as either Condition- or Treatment-focused) allows Platform users to quickly find the studies, study data, or study-generated knowledge that will get them closer to the information they are looking for.
 * HEAL studies that are NOT Condition- or Treatment-focused (e.g. career development, increasing diversity, developing general study recruitment or consenting procedures, etc.), may skip this section. **Contact heal-support@datacommons.io if you are unsure or need guidance.**
+
+**Fill out this section of the CEDAR form:**
 
 [Expand](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section. This section has two fields; click below to expand guidance for each field.
 
 ??? note "Study Translational Focus"
     **How to answer**
 
-    > This field allows selection of a single answer from a limited set of choices, including: “Condition” for Condition-focused studies, and “Treatment” for Treatment-focused studies (see above for definitions).
+    > This field allows selection of a single answer from a limited set of choices, including: “Condition” for Condition-focused studies, and “Treatment of a condition” for Treatment-focused studies (see above for definitions).
 
     > Human subjects study examples:
 
@@ -73,4 +77,4 @@
 
     > Filtering will allow Platform users to quickly find broad, relevant studies, study data, or study-generated knowledge.
 
-Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section (and [save](save-cedar-form.md) your form!)        
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Translational Focus section and [save](save-cedar-form.md) your form.        
