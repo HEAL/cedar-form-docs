@@ -1,5 +1,13 @@
 # Study Type
 
+**Resources:**
+
+* See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
+* See the [Study Type](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_type) element of the full metadata model.
+* See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
+
+**Fill out this section of the CEDAR form:**
+
 [Expand](expand-or-collapse-cedar-form-section.md) the Study Type section. This section has five fields; click below to expand guidance for each field.
     
 ??? note "Category or Type/Stage of Study Research"
@@ -84,7 +92,7 @@
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge.
 
-Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Type section (and [save](save-cedar-form.md) your form!)
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Study Type section and [save](save-cedar-form.md) your form.
     
 
         
