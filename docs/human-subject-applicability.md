@@ -219,10 +219,34 @@
     
 
 ??? note "To humans in which geographical locations do the study results apply"
-    **How to answer**
+
+    <br>
+    <mark style="background-color: #FFFF00">**How to answer**</mark>
+    
+    > This field only applies if your study enrolls or considers human subject. If your study does not enroll human subjects skip this field, leaving it blank.
+
+    > This field allows multiple answer selections from a response set, including: 'Non US', 'US - National', 'US - Specific States', 'US - Specific Counties', 'AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'HI', 'IA', 'ID', 'IL', 'IN', 'KS', 'KY', 'LA', 'MA', 'MD', 'ME', 'MI', 'MN', 'MO', 'MS', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM', 'NV', 'NY', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY'
+
+    > For studies with human subjects, from which geographic location(s) are subjects recruited?
+    >> * If subjects are recruited from anywhere in the US without further restriction on geographic location, choose only 'US - National'. 
+    * If subjects are recruited in the US only in specific state(s), choose 'US - Specific States', then also select the abbreviation of each of the specific states from which subjects are recruited. 
+    * If subjects are recruited in the US from specific county(ies) within specific state(s), please choose 'US - Specific States' and 'US - Specific Counties', then also select the abbreviation of each of the specific states from which subjects are recruited.
+    
+    > Examples:
+    >> * a school-based cluster-randomized control trial within the city of Atlanta that randomizes all of the high schools in Atlanta to test the efficacy of full versus partial subsidization of high quality after-school programming to increase participation in after-school programming, and to prevent opioid exposure, opioid use disorder, and opioid overdose in high school students through graduation and in the 2 years following graduation &rarr; **this study may choose 'US - Specific States', and 'US - Specific Counties' and 'GA'**    
+    * a multi-site state prison-based trial targeting individuals leaving prison who have a history of opioid use disorder (OUD), and testing efficacy of providing connection to a local social worker and other local community resources to prevent OUD relapse and opioid overdose in the year after prison exit, where prisons participating are in Illinois, Kentucky, Maryland, Massachusetts, and Nebraska &rarr; **this study may choose 'US - Specific States', and 'IL', 'KY', 'MD', 'MA', and 'NE** 
+    * a nationally representative survey of US adults to assess their attitudes towards opioid use disorder and individuals with opioid use disorder &rarr; **this study may choose 'US - National'** 
+
     
 
-    **How this field will be used**
+    <mark style="background-color: #FFFF00">**How this field will be used**</mark>
+
+    > The values from this field will be accessible to browse on the study's HEAL Data Platform study page and will give Platform users who find the study a sense for how generalizable the study may be. For example, if a community based trial of an intervention for OUD shows great results but it was tested in NYC and I'm looking for an intervention that will work in a small town in the midwest, I may want to really consider if/how the results will translate across contexts.
+
+    > These values may also provide information that will aid a Platform user looking to perform a meta-analysis of study results to synthesize across and provide more generalizable conclustions or to create a synthetic cohort across similar studies consisting of enrolled human subjects in different geographic locations again, at least in part, to provide answers to similar questions as the originating studies but with more generalizability
+
+    > These values may also provide information that will aid a Platform user looking to ask research questions about how state level policies or other state-level environmental factors may play a role/impact results of a specific study interventions approach (e.g. an intervention that provides connection to a social worker to individuals with history of OUD upon exit from prison may be very effective in a state that 1) has a strong educational infrastructure to train social workers, 2) provides loan forgiveness or other financial supports/incentives to social workers, 3) has policies in place to fully fund community health centers that have providers licensed to prescribe buprenorphine, etc. - the same intervention may be totally ineffective in a state where these conditions do not exist, perhaps making social workers scarce, overloaded, and unable to find resources for their clients) 
+       
     
 
 Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Human Subject Applicability section and [save](save-cedar-form.md) your form.
