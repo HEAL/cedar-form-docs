@@ -1,34 +1,40 @@
 # (Meta)data Location
 
-[Expand](expand-or-collapse-cedar-form-section.md) the (Meta)data Location section. This section has two fields: 
+**Resources:**
 
-  * NIH Application ID
-  * Other Study-Associated Websites
+* See the full metadata model in [PDF](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.pdf) or [Markdown](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md).
+* See the [(Meta)data Location](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=metadata_location) element of the full metadata model.
+* See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
-## **NIH Application ID** 
-The NIH Application ID auto-populates from NIH RePORTER.
+**Extra context:**
 
-  * **For errors in this field, contact heal-support@datacommons.io immediately, and do NOT fill out the form until instructed to. Do NOT edit pre-populated fields. They will NOT save.**
+* Not all fields in the (Meta)data Location element are represented in the CEDAR form - fields that are auto-populated from NIH RePORTER or other sources AND fields that we do not expect HEAL investigators to be able to fill out at the time of study registration do NOT appear in the CEDAR form
 
-## **Other Study-Associated Websites**
-The Other Study-Associated Websites field allows you to input an unlimited number of URLs. Provide URLs for any/all websites with information about your study.
-Values in this field are **validated as URLs** and will not be accepted if improperly formatted: http(s)://youraddress.yourdomain.
+**Fill out this section of the CEDAR form:**
 
-## Single Entry
-For a single entry, click the field and enter the value. Then, click “OK” to submit.
+[Expand](expand-or-collapse-cedar-form-section.md) the (Meta)data Location section. This section has two fields; click below to expand guidance for each field:
 
-## Multiple URL Entries
-For multiple entries:
+??? note "NIH Application ID"
+    **How to answer**
 
-* Click the field.
-* Click the “1,2,3 list” toggle to the left of the “?” icon in the upper right corner (if you mouse over this icon it will say “Toggle View”).
-* A spreadsheet interface will pop out.
-* Double click and enter a value in each row until you are done.
-* When you are done, click the “Toggle View” icon again (same location, but now looks like two small, solid triangles pointing away from each other).
-* The spreadsheet will collapse and expose an “OK” button.
-* Click “OK” to submit your values and exit the field.
-  * The form will validate your URLs.
-     * If any values do not pass validation, you will see a yellow warning triangle with an exclamation point and a message to enter valid URLs.
-     * If all values pass validation, you will see a green circle icon with a check mark. 
+    > The “NIH Application ID” <u>auto-populates</u> from NIH RePORTER.  
+    
+    > If you detect an error in this field, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
-* Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the (Meta)data Location section (and [save](save-cedar-form.md) your form!)
+    **How this field will be used**
+    > This field will be used to provide a link to all metadata available for your study on NIH RePORTER on your study's Platform study page. This will help the Platform Users who find your study to learn more about your study and decide whether it is of clear interest for their purposes. It may also be used by the Platform for internal indexing purposes.  
+
+    
+??? note "Other Study-Associated Websites"
+    **How to answer**
+
+     > This is an array field that allows you to input an unlimited number of URLs. Provide URLs for any/all websites that are officially affiliated with your study, or that otherwise provide essential information about your study.
+
+     > See [here](complete-cedar-array-field.md) for guidance on filling out a CEDAR array field
+
+     > Values in this field are **validated as URLs** and will not be accepted if improperly formatted: http(s)://youraddress.yourdomain. 
+
+    **How this field will be used**
+    > This field will be used to provide a link to all additional information (i.e. metadata) available for your study at these study affiliated websites on your study's Platform study page. This will help the Platform Users who find your study to learn more about your study and decide whether it is of clear interest for their purposes.  
+
+Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the (Meta)data Location section and [save](save-cedar-form.md) your form.
