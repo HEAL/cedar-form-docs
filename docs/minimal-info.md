@@ -21,12 +21,13 @@
 
 ??? note "Study Description or Abstract"
      **How to answer**
-    > The “Study Description or Abstract” <u>auto-populates</u> from NIH RePORTER. Ensure your study description is correct. 
+    > The “Study Description or Abstract” <u>auto-populates</u> with a short summary of your HEAL-funded study that is written by NIH HEAL Initiative staff and published on the [NIH HEAL Initiative Funded Projects website](https://heal.nih.gov/funding/awarded). If a summary of your study written by NIH HEAL Initiative staff is not available, this field will be auto-populated with the text of your study's abstract as it appears on [NIH RePORTER](https://reporter.nih.gov/). Ensure your study description is correct. 
     
     > If your study description is incorrect, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
     **How this field will be used**
-    > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in your study's Platform study table entry and on your study's Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes.  
+    > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in your study's Platform study table entry and on your study's Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes. 
+
 
 ??? note "Alternative Study Title or Name"
     **How to answer**
@@ -44,16 +45,19 @@
 
 ??? note "Alternative Study Description or Abstract"
     **How to answer**
+    > If your study is registered on ClinicalTrials.gov and you provided an NCT ID when you registered your study on the HEAL Data Platform, this field will be auto-populated with the text from your study's Detailed Description as it appears on [ClinicalTrials.gov](https://clinicaltrials.gov/). Otherwise, this field will be empty when you first open your form.
+
     > This is a free text field - Type directly into the field or copy and paste into it to answer - Currently the form is configured to accept just one alternative study description. 
 
-    > Studies can be described in many ways, at many levels of detail - use this field to provide an alternative description to one that was provided to NIH during the award application process - an alternative description may for example include more or different details about the study.
+    > Studies can be described in many ways, at many levels of detail - use this field to provide an alternative description to one that was auto-populated in the 'Study Description' field above - an alternative description may for example include more or different details about the study.
     
-    > You are <u>not required</u> to provide an alternative study description, as the study description auto-populated from NIH RePORTER will appear on the Platform, regardless of these alternative values. However, there are good reasons to provide one:
+    > You are <u>not required</u> to provide an alternative study description, as the study description auto-populated from the NIH HEAL Funded Projects website or from NIH RePORTER will appear on the Platform, regardless of these alternative values. However, there are good reasons to provide one:
 
     >>* The text is searchable via the Platform’s free-text search and discovery tools, so key terms and/or alternative study name structures (including study name acronyms) may make your study more findable.
     * The text may be visible on your study's Platform study page in the future, allowing users to read it and better determine whether your study is of interest.
 
     **How this field will be used**
-    > This field will be available to free text search and discovery tools on the Platform and the text may appear on your study's Platform study page. This will make your study more discoverable by Platform Users, and may also help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes. 
+    > This field will be available to free text search and discovery tools on the Platform and the text may appear on your study's Platform study page. This will make your study more discoverable by Platform Users, and may also help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes.
+
 
 Once complete, [collapse](expand-or-collapse-cedar-form-section.md) the Minimal Info section and [save](save-cedar-form.md) your form. 
