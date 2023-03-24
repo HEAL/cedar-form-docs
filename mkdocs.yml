@@ -1,5 +1,6 @@
 site_name: Cedar
 nav:
+    - Return to HEAL Platform Documentation: https://heal.github.io/platform-documentation/
     - CEDAR Form Overview:
       - I found my CEDAR form. Now What?: index.md
     - CEDAR Form Sections:
