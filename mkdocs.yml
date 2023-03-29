@@ -1,7 +1,7 @@
 site_name: Cedar
 nav:
     - Return to HEAL Data Platform Documentation: https://heal.github.io/platform-documentation/
-    - Contact HEAL Support: mailto:heal-support@datacommons.io
+    - Contact HEAL Support: 'mailto:heal-support@datacommons.io'
     - CEDAR Form Overview:
       - I found my CEDAR form. Now What?: index.md
     - CEDAR Form Sections:
@@ -14,7 +14,7 @@ nav:
       - Human Condition Applicability: human-condition-applicability.md
       - Human Subject Applicability: human-subject-applicability.md
       - Data: data.md
-   - Tutorial Videos: cedar-tutorial-videos.md
+    - Tutorial Videos: cedar-tutorial-videos.md
     - CEDAR Hints: 
       - Expand or Collapse CEDAR Form Section: expand-or-collapse-cedar-form-section.md
       - CEDAR Field Help Text: cedar-field-help-text.md
