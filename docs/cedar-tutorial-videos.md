@@ -8,7 +8,8 @@ This video covers:
 * How to find the metadata form
 * How to share the metadata form
 
-!!! note This video is to be watched after you have registered your study with the Platform. If you have not yet registered your study, we have [instructional videos](https://www.youtube.com/playlist?list=PLbQn1DuvP4ch2Z2rwf8sx7wC7zZqX-eoS) to help you with this process.
+!!! note
+    This video is to be watched after you have registered your study with the Platform. If you have not yet registered your study, we have [instructional videos](https://www.youtube.com/playlist?list=PLbQn1DuvP4ch2Z2rwf8sx7wC7zZqX-eoS) to help you with this process.
 
 #
 
