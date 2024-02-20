@@ -41,27 +41,27 @@
 
 **Fill out this section of the CEDAR form:**
 
-[Expand](expand-or-collapse-cedar-form-section.md) the Human Condition Applicability section. This section has seven fields; click below to expand guidance for each field:
+[Expand](expand-or-collapse-cedar-form-section.md) the Human Subject Applicability section. This section has six fields; click below to expand guidance for each field:
  
 
-??? note "To humans of which gender identity(ies) do study results apply"
+??? note "Do the results of your study have special applicability for humans of specific gender identity(s)? If so, mark all gender identity(s) for which the results of your study have special applicability."
     
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
     
-    > This field allows multiple answer selections from a response set, including: 'Female', 'Female-to-male transsexual', 'Intersexed', 'Male', 'Male-to-female transsexual', 'Other' 
+    > This field allows multiple answer selections from a response set, including: 'Female', 'Transgender woman/trans woman/male-to-female (MTF)', 'Male', 'Transgender man/trans man/female-to-male (FTM)', 'Genderqueer/gender nonconforming/neither exclusively male nor female', 'Other' 
     
     > If your study has **clear special applicability** to humans of a specific gender identity or identities, <u>mark all that apply</u>
     
     > Examples of studies with **clear special applicability**:
-    >> * a basic science study using biochemstry experiments to investigate potential molecular interactions between puberty-blocking drugs and opioid receptor pathways, and using animal model experiments to investigate the impact of co-administration of puberty-blocking drugs and opioids in an adolescent mouse injury pain model on opioid-induced pain-relief and on risk of opioid addiction &rarr; **this study may choose 'Female-to-male transexual', 'Male-to-female transexual', and 'Other'** (puberty blockers can be prescribed to early-adolescents who consider their gender identity to be trans OR non-binary; non-binary would be covered under the 'Other' category)    
-    * a clinical trial investigating the efficacy of adding a physical therapy and swim exercise therapy regimen to short-course opioids to prevent transition of acute post-surgical pain to chronic pain in cisgender women and transgender men following surgical mastectomy &rarr; **this study may choose 'Female' and 'Female-to-male transexual'** 
+    >> * a basic science study using biochemistry experiments to investigate potential molecular interactions between puberty-blocking drugs and opioid receptor pathways, and using animal model experiments to investigate the impact of co-administration of puberty-blocking drugs and opioids in an adolescent mouse injury pain model on opioid-induced pain-relief and on risk of opioid addiction &rarr; **this study may choose 'Transgender man/trans man/female-to-male (FTM)', ‘Transgender woman/trans woman/male-to-female (MTF)’, and 'Genderqueer/gender nonconforming/neither exclusively male nor female'** (puberty blockers can be prescribed to early-adolescents who consider their gender identity to be trans OR non-binary; non-binary would be covered under the Genderqueer category)    
+    * a clinical trial investigating the efficacy of adding a physical therapy and swim exercise therapy regimen to short-course opioids to prevent transition of acute post-surgical pain to chronic pain in cisgender women and transgender men following surgical mastectomy &rarr; **this study may choose 'Female' and 'Transgender man/trans man/female-to-male (FTM)** 
 
     
     > If your study **may apply** to humans of a specific gender identity or identities because it is conducted either without regard to gender identity or is conducted in a manner that is inclusive of the full range of gender identities, <u>mark NONE of the value options</u>
 
     > Examples of studies that **may apply**:
-    >> * a basic science study using biochemstry experiments to investigate potential molecular interactions between a novel non-opioid analgesic drug and opioid receptor pathways, and using animal model experiments to investigate the impact of co-administration of the novel non-opioid analgesic drug and opioids in an adolescent mouse injury pain model on overall pain-relief and on risk of opioid addiction &rarr; **this study should skip this field, choosing none of the available options** 
+    >> * a basic science study using biochemistry experiments to investigate potential molecular interactions between a novel non-opioid analgesic drug and opioid receptor pathways, and using animal model experiments to investigate the impact of co-administration of the novel non-opioid analgesic drug and opioids in an adolescent mouse injury pain model on overall pain-relief and on risk of opioid addiction &rarr; **this study should skip this field, choosing none of the available options** 
     * a clinical trial investigating the efficacy of adding a physical therapy and swim exercise therapy regimen to short-course opioids to prevent transition of acute post-surgical pain to chronic pain in older adults following hip replacement surgery &rarr; **this study should skip this field, choosing none of the available options** 
  
 
@@ -71,15 +71,15 @@
     
     > Example use cases where a Platform User is looking for studies with **clear special applicability** include:
 
-    >> * I am a program manager for a community-based after-school sports program for adolescents that is specifically welcoming to adolescents across the gender-identity spectrum - I know that risk of opioid exposure and addiction once exposed differ and tend to be higher for individuals in a gender identity minority as compared to individuals in a gender identity majority (i.e. cis male or cis female) - I am looking for studies that specifically investigate prevention of opioid use disorder in gender-identity minority adolescents, either in general, or specifically following treatment for pain due to a sports injury. To find such studies, I would filter on the gender identity field, choosing all of the gender identity minority options (i.e. **'Female-to-male transsexual', 'Intersexed', 'Male-to-female transsexual', 'Other'**) or the subset of gender identity minority options I am most interested in (e.g. If several of the program participants are trans boys and I am particulary focused on that group I might just choose **'Female-to-male transsexual'**)
-    * I am a clinician that treats trans patients with hormone therapy and gender affirming surgical care - Some of my patients come to me while on meds for maintenance of opioid use disorder remission, or start on these meds while in my care - I am looking for studies that specifically investigate risk factors and mechanisms to address risk for opioid use disorder relapse in trans patients. To find such studies, I would filter on the gender identity field, choosing **'Female-to-male transsexual'** and **'Male-to-female transsexual'**    
+    >> * I am a program manager for a community-based after-school sports program for adolescents that is specifically welcoming to adolescents across the gender-identity spectrum - I know that risk of opioid exposure and addiction once exposed differ and tend to be higher for individuals in a gender identity minority as compared to individuals in a gender identity majority (i.e. cis male or cis female) - I am looking for studies that specifically investigate prevention of opioid use disorder in gender-identity minority adolescents, either in general, or specifically following treatment for pain due to a sports injury. To find such studies, I would filter on the gender identity field, choosing all of the gender identity minority options (i.e. **‘Transgender man/trans man/female-to-male (FTM)’, ‘Transgender woman/trans woman/male-to-female (MTF)’, ‘Genderqueer/gender nonconforming/neither exclusively male nor female’, ‘Other’**) or the subset of gender identity minority options I am most interested in (e.g. If several of the program participants are trans boys and I am particularly focused on that group I might just choose **'Transgender man/trans man/female-to-male (FTM)'**)  
+    * I am a clinician that treats trans patients with hormone therapy and gender affirming surgical care - Some of my patients come to me while on meds for maintenance of opioid use disorder remission, or start on these meds while in my care - I am looking for studies that specifically investigate risk factors and mechanisms to address risk for opioid use disorder relapse in trans patients. To find such studies, I would filter on the gender identity field, choosing **‘Transgender man/trans man/female-to-male (FTM)’** and **‘Transgender woman/trans woman/male-to-female (MTF)’**    
         * If I don't find many studies of interest when using these limiting gender identity filters, I may want to expand my search to look for all studies that **may apply** to my population of interest because they are conducted either without regard to gender identity or are conducted in a manner that is inclusive of the full range of gender identities. 
         * To find such studies, I would filter on the gender identity field and choose the **'Conducted without regard to gender identity'** and/or **'Inclusive of all gender identities'** value options. 
         * This filter setting will return studies that indicated their study was conducted without regard to gender identity or inclusive of all gender identities by selecting NONE of the gender identity value options 
        
     
 
-??? note "To humans of which sexual identity(ies) do study results apply"
+??? note "Do the results of your study have special applicability for humans of specific sexual identity(s)? If so, mark all sexual identity(s) for which the results of your study have special applicability."
     
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
@@ -113,7 +113,7 @@
         * This filter setting will return studies that indicated their study was conducted without regard to sexual identity or inclusive of all sexual identities by selecting NONE of the sexual identity value options 
     
 
-??? note "To humans of which biological sexes do study results apply"
+??? note "Do the results of your study have special applicability for humans of specific biological sex(s)? If so, mark all biological sex(s) for which the results of your study have special applicability."
 
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
@@ -146,7 +146,7 @@
         * To find such studies, I would filter on the biological sex field and choose the **'Conducted without regard to biological sex'** and/or **'Inclusive of all biological sex'** value options. 
         * This filter setting will return studies that indicated their study was conducted without regard to biological sex or inclusive of all biological sex by selecting NONE of the biological sex value options 
     
-??? note "To humans of which age/developmental stage do study results apply"
+??? note "Do the results of your study have special applicability for humans of specific age/developmental stage(s)? If so, mark all age/developmental stage(s) for which the results of your study have special applicability."
 
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
@@ -180,7 +180,7 @@
         * This filter setting will return studies that indicated their study was conducted without regard to age/developmental stage or inclusive of all age/developmental stage by selecting NONE of the age/developmental stage value options 
     
 
-??? note "To humans in which special vulnerability categories do study results apply"
+??? note "Do the results of your study have special applicability for humans of specific vulnerability condition(s)? If so, mark all special vulnerability condition(s) for which the results of your study have special applicability."
 
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
@@ -218,7 +218,7 @@
    
     
 
-??? note "To humans in which geographical locations do the study results apply"
+??? note "Human Subject Studies: Where do human subjects of the study reside or obtain care during the course of the study - To humans in which geographical locations do the study results apply?"
 
     <br>
     <mark style="background-color: #FFFF00">**How to answer**</mark>
