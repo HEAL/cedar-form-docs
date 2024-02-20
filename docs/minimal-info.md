@@ -21,7 +21,7 @@
 
 ??? note "Study Description or Abstract"
      **How to answer**
-    > The “Study Description or Abstract” <u>auto-populates</u> with a short summary of your HEAL-funded study that is written by NIH HEAL Initiative staff and published on the [NIH HEAL Initiative Funded Projects website](https://heal.nih.gov/funding/awarded). If a summary of your study written by NIH HEAL Initiative staff is not available, this field will be auto-populated with the text of your study's abstract as it appears on [NIH RePORTER](https://reporter.nih.gov/). Ensure your study description is correct. 
+    > The “Study Description or Abstract” <u>auto-populates</u> with a short summary of your HEAL-funded study that is written by NIH HEAL Initiative staff and published on the [NIH HEAL Initiative Funded Projects website](https://heal.nih.gov/funding/awarded). If a summary of your study written by NIH HEAL Initiative staff is not available, this field will be auto-populated with the text of your study's abstract as it appears on [NIH RePORTER](https://reporter.nih.gov/). Ensure your study description is correct.  
     
     > If your study description is incorrect, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
@@ -45,7 +45,7 @@
 
 ??? note "Alternative Study Description or Abstract"
     **How to answer**
-    > If your study is registered on ClinicalTrials.gov and you provided an NCT ID when you registered your study on the HEAL Data Platform, this field will be auto-populated with the text from your study's Detailed Description as it appears on [ClinicalTrials.gov](https://clinicaltrials.gov/). Otherwise, this field will be empty when you first open your form.
+    > If your study is registered on ClinicalTrials.gov and you provided an NCT ID when you registered your study on the HEAL Data Platform, this field will be auto-populated with the text from your study's Detailed Description as it appears on [ClinicalTrials.gov](https://clinicaltrials.gov/). Otherwise, this field will be empty when you first open your form.  
 
     > This is a free text field - Type directly into the field or copy and paste into it to answer - Currently the form is configured to accept just one alternative study description. 
 
