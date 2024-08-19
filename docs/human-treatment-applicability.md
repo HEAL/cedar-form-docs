@@ -10,7 +10,7 @@
 
 * This section will apply to your study <u>even if your study is not a human subjects study</u>
 * This section **ONLY APPLIES** to studies that listed their [Study Translational Focus](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=study_translational_focus%20(string)%3A) as “Treatment of a Condition”. 
-* Studies that are not focused on studying <u>treatment</u> of a human pain or opioid use condition (e.g. studies that are instead focused on studying the condition itself) should skip this section. Contact heal-support@datacommons.io for questions or support.
+* Studies that are not focused on studying <u>treatment</u> of a human pain or opioid use condition (e.g. studies that are instead focused on studying the condition itself) should skip this section. Contact heal-support@gen3.org for questions or support.
 
 **Fill out this section of the CEDAR form:**
 
