@@ -14,7 +14,7 @@
     **How to answer**
     > The “Study Title or Name” <u>auto-populates</u> from NIH RePORTER. Ensure your study title is correct. 
     
-    > If your study title is incorrect, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
+    > If your study title is incorrect, contact heal-support@gen3.org immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
     **How this field will be used**
     > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in your study's Platform study table entry and on your study's Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study and decide whether it is of clear interest for their purposes.    
@@ -23,7 +23,7 @@
      **How to answer**
     > The “Study Description or Abstract” <u>auto-populates</u> with a short summary of your HEAL-funded study that is written by NIH HEAL Initiative staff and published on the [NIH HEAL Initiative Funded Projects website](https://heal.nih.gov/funding/awarded). If a summary of your study written by NIH HEAL Initiative staff is not available, this field will be auto-populated with the text of your study's abstract as it appears on [NIH RePORTER](https://reporter.nih.gov/). Ensure your study description is correct.  
     
-    > If your study description is incorrect, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
+    > If your study description is incorrect, contact heal-support@gen3.org immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
     **How this field will be used**
     > This field will be available to free text search and discovery tools on the Platform and the text will be human readable in your study's Platform study table entry and on your study's Platform study page. This will make your study more discoverable by Platform Users, and will help the Platform Users who find your study to identify your study, learn something about it, and decide whether it is of clear interest for their purposes. 
