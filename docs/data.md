@@ -8,7 +8,7 @@
 
 **Extra context:**
 
-* This section ONLY APPLIES to studies answering “Yes” to “Will your study collect or produce data?” in the Data Availability form section. Contact heal-support@datacommons.io for questions or support.
+* This section ONLY APPLIES to studies answering “Yes” to “Will your study collect or produce data?” in the Data Availability form section. Contact heal-support@gen3.org for questions or support.
 * This section has 10 fields; 
     * The first 3 fields apply to your study even if your study is not a human subjects study
     * The final 7 fields apply to your study ONLY if your study is a human subject study
