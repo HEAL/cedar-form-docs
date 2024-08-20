@@ -23,7 +23,7 @@
     * Business Development
     * Epidemiologic Research.
 
-    > If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
+    > If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support.
 
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:**
@@ -37,7 +37,7 @@
     > This field allows a single answer selection of “Primary Research” or “Secondary Research.”
 
     >> * *Primary Research*: Your study will collect primary data (i.e. measurements to generate data to address the study research question) OR conduct an active experiment.
-    * *Secondary Research*: Your study will NOT collect primary data AND your study will NOT conduct an active experiment. If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
+    * *Secondary Research*: Your study will NOT collect primary data AND your study will NOT conduct an active experiment. If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support.
     
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow Platform users to quickly find broad, relevant studies, study data, or study-generated knowledge. **For example:**
@@ -50,9 +50,9 @@
     > This field allows a single answer: “Observational Research” or “Experimental Research.”
 
     >> * *Observational Research*: If your study will NOT conduct an active experiment (e.g. actively or passively collecting measurements without any intervention, or in the context of a naturally occurring intervention - a “natural experiment”), select “Observational Research."
-    * *Experimental Research*: If your study will conduct an active experiment, select “Experimental Research." If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
+    * *Experimental Research*: If your study will conduct an active experiment, select “Experimental Research." If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support.
     
-    > If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support. 
+    > If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support. 
 
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly locate broad, relevant studies, study data, or study-generated knowledge.
@@ -74,9 +74,9 @@
     * *Animal studies* treat or observe animals or animal models (e.g. mice, zebrafish, drosophila).
     * *Human cell/tissue/tissue model OR Animal cell/tissue/tissue model* studies treat or observe human or animal cells (primary or cultured).
     * Molecule studies treat or observe molecules (e.g. enzymology, chemical/protein binding or engineering, protein crystallization, etc.).
-    * For *computational studies*, consider your subject of interest (e.g. modeling humans, human interaction, molecules, or molecular interactions). If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
+    * For *computational studies*, consider your subject of interest (e.g. modeling humans, human interaction, molecules, or molecular interactions). If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support.
     
-    > If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support. 
+    > If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support. 
 
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search'' on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge. For **example:**
@@ -87,7 +87,7 @@
 
 ??? note "Study Type/Design"
     **How to answer**
-    > This field allows multiple selections. Select all that apply. If these do not apply, skip the question, or contact heal-support@datacommons.io for questions or support.
+    > This field allows multiple selections. Select all that apply. If these do not apply, skip the question, or contact heal-support@gen3.org for questions or support.
     
     **How this field will be used**
     > These values will likely be filterable under “Advanced Search” on the HEAL Platform Discovery page, and will allow users to quickly find broad, relevant studies, study data, or study-generated knowledge.

@@ -1,6 +1,6 @@
 # I found my CEDAR form. Now What?
 
-Technical help for navigating the CEDAR form is available under the "CEDAR Hints" section of this site. Reach out at any time with questions or for support at <u>heal-support@datacommons.io</u>
+Technical help for navigating the CEDAR form is available under the "CEDAR Hints" section of this site. Reach out at any time with questions or for support at <u>heal-support@gen3.org</u>
 
 ## Providing team members access to a CEDAR form
 
@@ -46,7 +46,7 @@ Technical help for navigating the CEDAR form is available under the "CEDAR Hints
         * Follow guidance provided on this site to decide if a form section or field does not apply to your study
             * Sections and fields that do not apply to all studies will be clearly marked and will provide guidance to help determine if it applies to your study
         * If a form section or field does not apply to your study, you can safely skip it 
-        * If you have questions about whether a section or field applies or does not apply to your study, please reach out to <u>heal-support@datacommons.io</u>
+        * If you have questions about whether a section or field applies or does not apply to your study, please reach out to <u>heal-support@gen3.org</u>
 * **Complete the CEDAR form as soon as possible following notification of your HEAL award.**        
     * The CEDAR form has been calibrated to include only fields that appropriately knowledgeable study staff should know and be able to fill out as soon as HEAL funding has been awarded 
     * There is **no need to wait for data collection to start** to fill out the CEDAR form 

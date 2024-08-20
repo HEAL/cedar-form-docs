@@ -12,7 +12,7 @@
 * Even when HEAL studies don’t involve human subjects, they generally focus on learning more about a human pain or opioid use condition (**Condition-focused**) or they focus on learning more about a treatment, intervention, or solution for a human pain or opioid use condition (**Treatment-focused**).
 * We expect that many HEAL Platform users will look for studies, study data, and study-generated knowledge from a condition- or treatment-focused perspective; they will either want to find new information about a human pain or opioid use condition, or treatment for a human pain or opioid use condition.
 * Classifying your study in this way (i.e. identifying your study as either Condition- or Treatment-focused) allows Platform users to quickly find the studies, study data, or study-generated knowledge that will get them closer to the information they are looking for.
-* HEAL studies that are NOT Condition- or Treatment-focused (e.g. career development, increasing diversity, developing general study recruitment or consenting procedures, etc.), may skip this section. **Contact heal-support@datacommons.io if you are unsure or need guidance.**
+* HEAL studies that are NOT Condition- or Treatment-focused (e.g. career development, increasing diversity, developing general study recruitment or consenting procedures, etc.), may skip this section. **Contact heal-support@gen3.org if you are unsure or need guidance.**
 
 **Fill out this section of the CEDAR form:**
 

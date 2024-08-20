@@ -10,7 +10,7 @@
 
 * A couple of fields in the Data Availability section should be updated throughout a HEAL study’s life-cycle (i.e. fields that ask "Has data collection/production started?" or "Has data release started?" will change from “not started” to “started” to “finished”).
 * A few fields in the Data Availability section may need to be updated if/as study timelines stray from originally planned timelines (e.g. a study impacted by COVID-related delays may update values initially provided for fields like "Date when first data will be collected/produced" or "Date when first data will be released" if initially planned dates for these milestones are delayed substantially) 
-* To update your study’s metadata <u>after</u> your initial completion of the form, please contact the Platform Help Desk at heal-support@datacommons.io.
+* To update your study’s metadata <u>after</u> your initial completion of the form, you can always return to the form and change values in a field. The platform will be updated with the new information within about 24 hrs.
 
 **Fill out this section of the CEDAR form:**
 

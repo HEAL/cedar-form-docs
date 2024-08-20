@@ -19,7 +19,7 @@
 
     > The “NIH Application ID” <u>auto-populates</u> from NIH RePORTER.  
     
-    > If you detect an error in this field, contact heal-support@datacommons.io immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
+    > If you detect an error in this field, contact heal-support@gen3.org immediately, and do NOT proceed with filling out the CEDAR form until instructed to. Do NOT edit pre-populated fields. They will NOT save.
 
     **How this field will be used**
     > This field will be used to provide a link to all metadata available for your study on NIH RePORTER on your study's Platform study page. This will help the Platform Users who find your study to learn more about your study and decide whether it is of clear interest for their purposes. It may also be used by the Platform for internal indexing purposes.  
