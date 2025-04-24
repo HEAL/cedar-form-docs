@@ -61,7 +61,7 @@
     
     > **Treatment availability or accessibility:**
     
-    >> * A study surveying all federally funded substance use facilities in the country about their OUD treatment offerings, modes of treatment (e.g. in/outpatient, MOUD/methadone/buprenorphine), and permitted patients (e.g. are there restrictions based on gender, age, health insurance, co-occurring mental health conditions, etc.)
+    >> * A study surveying all federally funded substance use facilities in the country about their OUD treatment offerings, modes of treatment (e.g. in/outpatient, MOUD/methadone/buprenorphine), and permitted patients (e.g. are there restrictions based on age, health insurance, co-occurring mental health conditions, etc.)
     * A study using EHR and claims data to investigate sociodemographic disparities in how frequently OUD patients are given or fill a MOUD prescription
 
     **How this field will be used**
