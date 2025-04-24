@@ -43,7 +43,7 @@
 
 [Expand](expand-or-collapse-cedar-form-section.md) the Human Subject Applicability section. This section has six fields; click below to expand guidance for each field:
  
-
+<!--
 ??? note "Do the results of your study have special applicability for humans of specific gender identity(s)? If so, mark all gender identity(s) for which the results of your study have special applicability."
     
     <br>
@@ -77,7 +77,7 @@
         * To find such studies, I would filter on the gender identity field and choose the **'Conducted without regard to gender identity'** and/or **'Inclusive of all gender identities'** value options. 
         * This filter setting will return studies that indicated their study was conducted without regard to gender identity or inclusive of all gender identities by selecting NONE of the gender identity value options 
        
-    
+-->    
 
 ??? note "Do the results of your study have special applicability for humans of specific sexual identity(s)? If so, mark all sexual identity(s) for which the results of your study have special applicability."
     
