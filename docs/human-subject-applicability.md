@@ -35,15 +35,15 @@
     
     >>* a basic science trial studying the impact of an opioid drug on pain/nociception signaling pathways in a mouse model of lower back injury where both male and female mice are included in the experiments, and 
     * a community-based cluster randomized control trial testing impact of a community-wide postering/flyering communications campaign intervention on opioid use disorder incidence)    
-* If your study has **clear special applicability** with respect to a specific demographic characteristic (e.g. biological sex, gender or sexual identity, age), mark all value options within that characteristic category field for which your study has clear special applicability
-* If your study **may apply** with respect to a specific demographic characteristic (e.g. biological sex, gender or sexual identity, age) because it is conducted either without regard to that specific demographic characteristics or is conducted in a manner that is inclusive of the full range of that specific demographic characteristic, skip that characteristic category field (mark NONE)
+* If your study has **clear special applicability** with respect to a specific demographic characteristic (e.g. biological sex, sexual identity, age), mark all value options within that characteristic category field for which your study has clear special applicability
+* If your study **may apply** with respect to a specific demographic characteristic (e.g. biological sex, sexual identity, age) because it is conducted either without regard to that specific demographic characteristics or is conducted in a manner that is inclusive of the full range of that specific demographic characteristic, skip that characteristic category field (mark NONE)
     
 
 **Fill out this section of the CEDAR form:**
 
 [Expand](expand-or-collapse-cedar-form-section.md) the Human Subject Applicability section. This section has six fields; click below to expand guidance for each field:
  
-
+<!--
 ??? note "Do the results of your study have special applicability for humans of specific gender identity(s)? If so, mark all gender identity(s) for which the results of your study have special applicability."
     
     <br>
@@ -77,7 +77,7 @@
         * To find such studies, I would filter on the gender identity field and choose the **'Conducted without regard to gender identity'** and/or **'Inclusive of all gender identities'** value options. 
         * This filter setting will return studies that indicated their study was conducted without regard to gender identity or inclusive of all gender identities by selecting NONE of the gender identity value options 
        
-    
+-->    
 
 ??? note "Do the results of your study have special applicability for humans of specific sexual identity(s)? If so, mark all sexual identity(s) for which the results of your study have special applicability."
     
@@ -96,7 +96,7 @@
     > If your study **may apply** to humans of a specific sexual identity or identities because it is conducted either without regard to sexual identity or is conducted in a manner that is inclusive of the full range of sexual identities, <u>mark NONE of the value options</u>
 
     > Examples of studies that **may apply**:
-    >> * a survey of a nationally representative sample of US adults to assess 1) to what extent they have experienced negative reactions among healthcare providers to any aspect of their identity including education level, class, race, age, sexual or gender identity, etc., 2) to what extent such experiences cause them to delay or forgo healthcare in general, or mental healthcare or pain healthcare in particular &rarr; **this study should skip this field, choosing none of the available options** 
+    >> * a survey of a nationally representative sample of US adults to assess 1) to what extent they have experienced negative reactions among healthcare providers to any aspect of their identity including education level, class, race, age, sexual identity, etc., 2) to what extent such experiences cause them to delay or forgo healthcare in general, or mental healthcare or pain healthcare in particular &rarr; **this study should skip this field, choosing none of the available options** 
     * a basic science study using mouse model experiments to investigate potential changes to mechanism, side-effects, or efficacy of medication such as methadone or buprenorphine for maintaining remission of opioid use disorder when co-administered with a standard formulation of PrEP (pre-exposure prophylaxis, to prevent acquisition of HIV) that has been approved for the general adult population &rarr; **this study should skip this field, choosing none of the available options** 
  
 
@@ -108,7 +108,7 @@
 
     >> * I am a public health official in a community that has evidence that an uptick in opioid overdoses among older gay adults may be partially attributed to self-medicating chronic pain with street opioids - I am looking for studies that specifically investigate risk factors for self-medicating chronic pain in older gay adults. To find such studies, I would filter on the sexual identity field, choosing **'Homosexual (gay/lesbian)'**
     * I am the parent of a teenager who has just come out as gay - There's been a spate of opioid overdoses at my kid's highschool, so I'm already concerned about them, and I've heard that gay teenagers are at higher risk of substance use in general - I am looking for studies that specifically investigate whether there is a differential risk for opioid use in gay versus straight teenagers, or that look at risk factors and mechanisms to address risk for opioid first use, opioid addiction, and opioid overdose specifically in gay teenagers. To find such studies, I would filter on the sexual identity field, choosing **'Homosexual (gay/lesbian)'**    
-        * If I don't find many studies of interest when using these limiting gender identity filters, I may want to expand my search to look for all studies that **may apply** to my population of interest because they are conducted either without regard to sexual identity or are conducted in a manner that is inclusive of the full range of sexual identities. 
+        * If I don't find many studies of interest when using these limiting sexual identity filters, I may want to expand my search to look for all studies that **may apply** to my population of interest because they are conducted either without regard to sexual identity or are conducted in a manner that is inclusive of the full range of sexual identities. 
         * To find such studies, I would filter on the sexual identity field and choose the **'Conducted without regard to sexual identity'** and/or **'Inclusive of all sexual identities'** value options. 
         * This filter setting will return studies that indicated their study was conducted without regard to sexual identity or inclusive of all sexual identities by selecting NONE of the sexual identity value options 
     
